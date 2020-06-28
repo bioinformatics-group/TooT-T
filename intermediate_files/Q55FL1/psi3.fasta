@@ -1,0 +1,1728 @@
+>0:  3 100.0% 100.0% 1:507
+MSIFAYSILAGLAPLLSSSIPFFTLRNRNINASVFHILLCISAGLLFAVASLELIPESMNLALRSFEEST
+KTQTSLKSTTTKTTTTTTTIGNIKLQKSFISNSEDSLNEFHSLDNEINKPPIEGLNLNNLNQATNLDNNE
+EDNDNLDNDGENEIENDHDHDHQEDEGGDNDHDHESEEKKEFLKIPMYGIGFGFAILIIVESIFSSIDGG
+GGGGGHHSHSHGSLSSSSSNDVISDYISNNNSNNINNNDDDNNNNNNNNDDDDDSVELLERNVVNKDNSN
+NINNINNNNDDEDIIVINKSIENTPNIASPVMNKDNNNNDKDKNRNSNKSDIKNSGSINNGNNSGNNNNN
+NKSKLTITTFIALSIHSFVDGVVISSAFSSSPHVGARVALAIVIHKIPDGLVLSSLILSQKKFNSGIFSN
+PFFYFLLISCMTPLGSFISSFLFGGLSLSSGAFVLGFGAGTFIYITSTAILPEILSNQIVKKSTSLFSIF
+LGYLLFIFLDSQFHGAH
+>1:Q55FL1 Protein zntA OS=Dictyostelium discoideum OX=44689 GN=zntA PE=2 SV=2 3 470 4e-161 1 100.0% 100.0% 1:507 1:507
+MSIFAYSILAGLAPLLSSSIPFFTLRNRNINASVFHILLCISAGLLFAVASLELIPESMNLALRSFEEST
+KTQTSLKSTTTKTTTTTTTIGNIKLQKSFISNSEDSLNEFHSLDNEINKPPIEGLNLNNLNQATNLDNNE
+EDNDNLDNDGENEIENDHDHDHQEDEGGDNDHDHESEEKKEFLKIPMYGIGFGFAILIIVESIFSSIDGG
+GGGGGHHSHSHGSLSSSSSNDVISDYISNNNSNNINNNDDDNNNNNNNNDDDDDSVELLERNVVNKDNSN
+NINNINNNNDDEDIIVINKSIENTPNIASPVMNKDNNNNDKDKNRNSNKSDIKNSGSINNGNNSGNNNNN
+NKSKLTITTFIALSIHSFVDGVVISSAFSSSPHVGARVALAIVIHKIPDGLVLSSLILSQKKFNSGIFSN
+PFFYFLLISCMTPLGSFISSFLFGGLSLSSGAFVLGFGAGTFIYITSTAILPEILSNQIVKKSTSLFSIF
+LGYLLFIFLDSQFHGAH
+>2:Q9ULF5 Zinc transporter ZIP10 OS=Homo sapiens OX=9606 GN=SLC39A10 PE=1 SV=2 3 194 1e-52 1 47.7% 20.2% 253:499 546:818
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------SDHKLNNTPDSDWLQltDDSVVSEDRLN
+ETELTDLEGQQEscIEEEKIIDHSHSDGLHTIHEhhNHHGENkrKHNHQWHHKHSHHSHGPCHSGSdkET
+GIANIAWMVIMGDGIHNFSDGLAIGAAFSAGLTGGISTSIAVFCHELPHELGDFAVLLKAGMT----VKQ
+AIVYNLLSAMMAYIGMLIGTAV-GQYANNITLWIFAVTAGMFLYVALVDMLPEMLHGDGDNEEHGflGLL
+FGFAIMLVI--------
+>3:Q9BE64 Testis-specific Y-encoded-like protein 2 OS=Macaca fascicularis OX=9541 GN=TSPYL2 PE=1 SV=1 3 185 7e-50 1 31.8% 25.9% 89:281 446:617
+----------------------------------------------------------------------
+------------------TIHDIK-----ISDFMETTDYFETTDNEinICDSESPDHDEVRNETT-DNNE
+SADDNETTDNNESADDNNENPEDNNKNADDNKENPDNNKH------TYGNNF--------------FNGG
+FWG------SHGNNQDSSDSDNEADEASDDEDNDGNEgdDDGNEGDNEGSDDDddIEYYEKVIEDPFDRD
+Q---------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>4:Q6P5F6 Zinc transporter ZIP10 OS=Mus musculus OX=10090 GN=Slc39a10 PE=1 SV=1 3 185 1e-49 1 47.7% 19.8% 253:499 548:820
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------SDHKLNSTPDADWLQltDDSVVSEDRLN
+ETELTDLEAQQESPpeEEKIMDHSHSDGLhvHVTSHNHHDEDkrKHSHQWHHRHAHHSHGPCHSGSdkET
+GIANIAWMVIMGDGIHNFSDGLAIGAAFSAGLTGGISTSIAVFCHELPHELGDFAVLLKAGMT----VKQ
+AIVYNLLSAMMAYIGMLIGTAV-GQYANNITLWIFAITAGMFLYVALVDMLPEMLHGDGDHEEHGflGLL
+FGFAIMLVI--------
+>5:Q504Y0 Zinc transporter ZIP12 OS=Homo sapiens OX=9606 GN=SLC39A12 PE=2 SV=3 3 182 5e-49 1 40.0% 21.5% 284:492 467:671
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---LLVSPNDKQGLSLVNGHVGHSHHLALNSELSDQAGRGKSASTIQLKseDSQAAEMPIGSMTanRKCK
+AISLLAIMILVGDSLHNFADGLAIGAAFSSSSESGVTTTIAILCHEIPHEMGDFAVLLSSGLS----MKT
+AILMNFISSLTAFMGLYIG--LSVSADPCVQDWIFTVTAGMFLYLSLVEMLPEMTHVQTQRPWMMFLLQN
+FG---------------
+>6:Q3AU90 Zinc transporter ZupT OS=Chlorobium chlorochromatii (strain CaD3) OX=340177 GN=zupT PE=3 SV=1 3 168 3e-47 1 34.5% 22.8% 320:503 92:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DKLIPSYENPHELNVAQKLEE---CSENQKK
+KLMRMGLFSAVAIGIHNFPEGLATFMSGLSNPTLGVSIAVAIAIHNIPEGLAVSAPIFYATQSR----KK
+AFILSFLSGLAEPVGALIGYFLLRsfSPSLFGVVFGAVAGIMVYISLDELLPA--AEEYGEHHFAIGGVI
+AGMVVMAISLLLF----
+>7:A4SE48 Zinc transporter ZupT OS=Chlorobium phaeovibrioides (strain DSM 265 / 1930) OX=290318 GN=zupT PE=3 SV=1 3 168 3e-47 1 34.5% 19.5% 320:504 91:266
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DQLVPDVENPHEMSYIGRME----ERVPDSM
+RLNRMGLFTAAAIAIHNFPEGMAVFFSALSNQNLGIVIATTIALHNIPEGMAIAVPIYFATKSR----KK
+AFTYSFLSGLAEPLGAIVGFAILKplSPPVFGSVLAAVAGIMVYISLDELLP--TAEEYGEHHLAISGLI
+AGMAVMALSLLLLA---
+>8:B3ECE6 Zinc transporter ZupT OS=Chlorobium limicola (strain DSM 245 / NBRC 103803 / 6330) OX=290315 GN=zupT PE=3 SV=1 3 167 4e-47 1 34.5% 23.8% 320:504 91:266
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DQLVPNFENPHEMSMIGTMN----TAPSEEA
+RLHRMGIFTAAAIAIHNFPEGLAVFFSALSNPDLGVVIAATIALHNIPEGMAVAVPIYFATKSR----MK
+AFSYSFLSGLAEPLGAIIGYALLKplSPLVFACVLGGVAGIMVYISLDELLPA--AEEYGEHHIAISGLI
+LGMGVMAVSLLMLA---
+>9:Q5FWH7 Zinc transporter ZIP12 OS=Mus musculus OX=10090 GN=Slc39a12 PE=1 SV=1 3 177 4e-47 1 40.2% 22.9% 290:499 471:680
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------NTKGLPLVNEHVGHTHHLGLNPELNDQSSGGKSISTIQLKgeDSQTTVLPIGnpASNRNGK
+TISLLAIMILVGDSLHNFADGLVIGTAFSSSLESGVTTTIAILCHEIPHEMGDFAVLLSSGLS----VRT
+AILMNFLSALTAFAGLYIG--LSVSADPRVQDWILTVTAGMFLYLSLVGMLPEMTHVQTQRPWMTFlgLV
+LGWFSLLLL--------
+>10:P34240 Zinc-regulated transporter 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ZRT3 PE=1 SV=2 3 172 1e-46 1 44.4% 18.3% 238:467 219:451
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------SSQSERNVPHGCEGSEDNGQSDDKDHRGLVCVENNI--GYDLE
+NLSLYRKNFLSSRHHHSSESPENYGSNQLSHSFSSPLGNdeNPAALADTQYHPENGSLYPHHHHLETPFS
+KLLSIGMQTCLVLALHKFPEGFIIFYtsDSSKSLGFSIFLSLTIHNFVEGFAMTLPFYTVFESK---WVA
+ILITAVLGGGSQPLGALIGYFIFKGSTPRdmDFLLSVTAGFLLVIGL-----------------------
+-----------------
+>11:B3QP89 Zinc transporter ZupT OS=Chlorobaculum parvum (strain NCIB 8327) OX=517417 GN=zupT PE=3 SV=1 3 165 2e-46 1 34.5% 22.3% 320:503 92:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DKLVPAYENPHEMNTE---KIIEESSAKDKA
+KLLRMGLFSALAIGIHNFPEGLATFMSGLSNPTLGISIAVAIAIHNIPEGLAVSAPIYFATKSR----KK
+AFVLSFLSGLAEPIGAIAGFFLLRTltELTFGLVFASVAGIMVYISLDELLP--TAEEYGEHHLAIGGLV
+GGMLVMAVSLLLF----
+>12:B2UL32 Zinc transporter ZupT OS=Akkermansia muciniphila (strain ATCC BAA-835 / Muc) OX=349741 GN=zupT PE=3 SV=1 3 163 1e-45 1 33.1% 24.3% 319:499 100:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------EDENPHEARGPEDI-------HGQASGEFSSS
+RIKRSGILFALAIGIHNFPEGIATFAAGLDSLTLGTSIALAVAVHNIPEGIAVAVPLY----YGTGSRKK
+ALFYSFLSGLAEPVGAAIAmfLFHFLTPTVLAVLFASVAGIMVFISFDELLP--MAERWGHHHISIMGII
+AGMLLMAIV--------
+>13:Q3B4G1 Zinc transporter ZupT OS=Chlorobium luteolum (strain DSM 273 / 2530) OX=319225 GN=zupT PE=3 SV=1 3 162 4e-45 1 33.3% 19.6% 320:498 91:260
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DQMVPSFENPHEMSMIGPMTD----AEKSDT
+RLHRMGIFTAAAIAIHNFPEGMAVFFSALSNQELGIVIASTIALHNIPEGMAVAVPIYFATKSR----KR
+AFSLSFLSGLAEPLGALVGYTLLRplTPFVLGIVLASVSGIMVYISLDELLPS--AEEYGEHHLAITGLI
+AGMAVMAL---------
+>14:C3PFG5 Zinc transporter ZupT OS=Corynebacterium aurimucosum (strain ATCC 700975 / DSM 44827 / CN-1) OX=548476 GN=zupT PE=3 SV=1 3 161 7e-45 1 33.5% 19.0% 320:503 94:264
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DRLVPEEINPHEPATTEE--------EARRK
+RLIKTGMFTAFALAIHNFPEGFATFLSGLEAPEIAIPVAVAIAIHNIPEGIAVAVPL----RSATGSRKK
+AFWWATLSGLAEPLGALIGFALLMPfgPMTFGISFAVIAGIMVFISLDELLP--TAEETGEHHCAIYGLI
+AGMAVMAVSLALF----
+>15:Q8ENQ1 Zinc transporter ZupT OS=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX=221109 GN=zupT PE=3 SV=1 3 161 1e-44 1 34.9% 20.5% 320:504 91:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DRFIPKYTNPHEVKKVEDMKKPHQ--PLRDP
+DLMKMGLFTALALAIHNFPEGIATFVSTLHDPSIGLAIAIAVAIHNIPEGIAVSVPIY----YATGDRKK
+AFKYSFLSGLAEPLGAIVAILILMplNDLMFGIIFAMVAGIMVFISLDELLPA--ARKYDEAHMSMYGVI
+SGMALMAVSLLLLA---
+>16:Q8NQK0 Zinc transporter ZupT OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=zupT PE=3 SV=1 3 159 4e-44 1 32.7% 22.1% 332:503 96:262
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHEPSTVGGAVEGFERRN
+RMMKMGVLTALAIAIHNFPEGFATFLAGLSDPMIAIPVAVAIAIHNIPEGIAVAVPL----REATGSRRK
+ALGWATLSGLAEPAGALIGFLLLMPfgPEALGLCFAAVAGVMVFISVDELLP--TAISSGKHHTAIYGLI
+AGMAVMAISLLLF----
+>17:Q2YDD4 Zinc transporter ZIP11 OS=Bos taurus OX=9913 GN=SLC39A11 PE=2 SV=1 3 160 1e-43 1 42.6% 18.8% 279:501 114:338
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------------LN
+LDPLLTKKSDAEGARMLFPESELSIRIGRAGLLSDKSENGEaqRKRAVATDLAEGPAAPGPpgSAAQPGG
+SSWRRIALLILAITIHNIPEGLAVGVGfsATFESARNLALGIGIQNFPEGLAVSLPLRGAGFS----TWR
+AFWYGQLSGMVEPLAGVFGAF-AVVLAEPILPYALAFAAGAMVYVIMDDIIPE--AQISGNGKLASWASI
+LGFVVMMSLDV------
+>18:Q8N1S5 Zinc transporter ZIP11 OS=Homo sapiens OX=9606 GN=SLC39A11 PE=2 SV=3 3 160 1e-43 1 41.8% 19.2% 283:501 119:339
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--TLMKKKSDPEGPALLFPESELSIRIGRAGLLSDKSENGEAYQRKKAAATGLPEGPAVPVPSRGnqPGG
+SSWRRIALLILAITIHNVPEGLAVGVGfsATFESARNLAIGIGIQNFPEGLAVSLPLRGAGFS----TWR
+AFWYGQLSGMVEPLAGVFGAF-AVVLAEPILPYALAFAAGAMVYVVMDDIIPE--AQISGNGKLASWASI
+LGFVVMMSLDV------
+>19:A0A0G2KQY6 Zinc transporter ZIP14 OS=Danio rerio OX=7955 GN=slc39a14 PE=2 SV=1 3 163 2e-43 1 41.8% 19.1% 286:505 262:489
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----NSNGDLEDGVMEKLQNGEAGGAALPRAEADGRGVGEDDKMLSTGQTVQDTQSSGGGGTGGcrAYS
+DIGTLAWMITLSDGLHNFIDGLAIGASFTASVFQGISTSVAILCEEFPHELGDFVILLNAGMS----IQQ
+ALFFNFLSACCCYLGMGFGILAGNNFSPN---WIFALAGGMFLYIALADMFPEMNEVSREEEelQNAGLL
+TGFAIMLVL-TIYSG--
+>20:Q8FTK0 Zinc transporter ZupT OS=Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189 / NBRC 100395) OX=196164 GN=zupT PE=3 SV=1 3 156 5e-43 1 32.7% 21.5% 332:503 101:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHEPSTVGGAVEGYERRS
+RMMRAGVLTAIAISIHNFPEGFATFVAGLTDPRIAIPVAVAIAIHNIPEGIAVAVPI----REATGSRGK
+ALKWATLSGLAEPAGAVVGFILLMplGPEAMGLSFAAVAGIMVFISLDELLP--TAISSGRHHTAIYGLV
+GGMAVMAVSLLLF----
+>21:Q75N73 Zinc transporter ZIP14 OS=Mus musculus OX=10090 GN=Slc39a14 PE=1 SV=1 3 161 1e-42 1 42.2% 17.5% 283:505 259:484
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--TLPSKKDQEEGVtlQNGDLDHMIPQHCNSELDGKagTDEKVIVNSMSVQDLQASQSACYWLKGVRY-S
+DIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGISTSVAILCEEFPHELGDFVILLNAGMS----IQQ
+ALFFNFLSACCCYLGLAFGIL---AGSHFSANWIFALAGGMFLYIALADMFPEMNecQEDEKNDSflGLL
+TGFSIMLVL-TMYSG--
+>22:A1KRK6 Zinc transporter ZupT OS=Neisseria meningitidis serogroup C / serotype 2a (strain ATCC 700532 / DSM 15464 / FAM18) OX=272831 GN=zupT PE=3 SV=1 3 154 3e-42 1 32.9% 19.1% 332:504 101:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHETLDAQDPSFQESKRR
+HIARVGMMAAFAITAHNFPEGLATFFATLENPAVGMPLALAIAIHNIPEGISIAAPVYFATRSR----KK
+TVWACLLSGLAEPLGAALGYLVLQplSPAVFGSVFGVIAGVMVFLALDELLPA--AKRYSDGHETVYGLT
+MGMAVIAVSLVLFH---
+>23:Q9JX23 Zinc transporter ZupT OS=Neisseria meningitidis serogroup A / serotype 4A (strain Z2491) OX=122587 GN=zupT PE=3 SV=1 3 154 3e-42 1 32.9% 19.1% 332:504 101:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHETLDAQDPSFQESKRR
+HIARVGMMAAFAITAHNFPEGLATFFATLENPAVGMPLALAIAIHNIPEGISIAAPVYFATRSR----KK
+TVWACLLSGLAEPLGAALGYLVLQplSPAVFGSVFGVIAGVMVFLALDELLPA--AKRYSDGHETVYGLT
+MGMAVIAVSLVLFH---
+>24:Q9K1H6 Zinc transporter ZupT OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=zupT PE=3 SV=1 3 154 4e-42 1 32.9% 19.1% 332:504 101:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHETLDAQDPSFQESKRR
+HIARVGMMAAFAITAHNFPEGLATFFATLENPAVGMPLALAIAIHNIPEGISIAAPVYFATRSR----KK
+TVWACLLSGLAEPLGAALGYLVLQplSPAVFGSVFGVIAGVMVFLALDELLPA--AKRYSDGHETVYGLT
+TGMAVIAVSLVLFH---
+>25:A8ZVV7 Zinc transporter ZupT OS=Desulfococcus oleovorans (strain DSM 6200 / Hxd3) OX=96561 GN=zupT PE=3 SV=1 3 153 2e-41 1 36.7% 20.8% 307:498 87:283
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------IGVIDNLIPSAENPHEVPSETQMADFRDACTLSDTGAADCDDAG
+RKarMGLFTALAIGIHNFPEGLATFLAALSDPALGVAIALAIALHNIPEGISVSVPI----FYATGNKTK
+AFAWSLVSGMAEPVGALLGYLgaGGMPPQIMGILFAGVAGIMVYISVDELLP--TSRAYGRGHDSILGMV
+AGMAVMAA---------
+>26:Q8DRY7 Zinc transporter ZupT OS=Streptococcus mutans serotype c (strain ATCC 700610 / UA159) OX=210007 GN=zupT PE=3 SV=1 3 152 2e-41 1 33.7% 21.7% 320:503 92:263
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DKLIPSEENPHEIKTIE-------EEDQKPT
+KLMRMGLMTAIAIGIHNFPEGLATFISGLQDASIAIPIVIAIAIHNIPEGIAVSVPIYQA----TGSKKK
+AFTYSFLSGLAEPLGAIIGWFLLMpmNNIVYGAIFSAVAGIMVFISLDELLPA--AEEYGKHHLAIYGVI
+SGMLIMAVSLLLF----
+>27:A5D7L5 Zinc transporter ZIP14 OS=Bos taurus OX=9913 GN=SLC39A14 PE=2 SV=1 3 156 7e-41 1 42.2% 15.2% 283:505 260:485
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--TLPSQKDQEEGVtlQNGDLDHMIPQHCSGELDGKTPvdEKVIVGSLSVQDLQASQSACHWLKGVRY-S
+DIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGISTSVAILCEEFPHELGDFVILLNAGMS----LQQ
+ALFFNFLSACCCYVGLGFGIL---AGSHFSANWIFALAGGMFLYISLADMFPEMNEVSQEDERKGslGLL
+TGFGIMLVL-TMYSG--
+>28:Q15043 Zinc transporter ZIP14 OS=Homo sapiens OX=9606 GN=SLC39A14 PE=1 SV=3 3 156 8e-41 1 42.2% 15.7% 283:505 262:487
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--SLPSKKDQEEGVmlQNGDLDHMIPQHCSSELDGKamVDEKVIVGSLSVQDLQASQSACYWLKGVRY-S
+DIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGISTSVAILCEEFPHELGDFVILLNAGMS----IQQ
+ALFFNFLSACCCYLGLAFGIL---AGSHFSANWIFALAGGMFLYISLADMFPEMNEVCQEDERKGslGLL
+TGFTIMVVL-TMYSG--
+>29:Q5RAB7 Zinc transporter ZIP14 OS=Pongo abelii OX=9601 GN=SLC39A14 PE=2 SV=2 3 156 8e-41 1 42.2% 15.7% 283:505 260:485
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--TLPSKKDQEEGVmlQNGDLDHMIPQHCNSELDGKAPvdEKVIVGSLSVQDLQASQSACYWLKGVRY-S
+DIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGISTSVAILCEEFPHELGDFVILLNAGMS----IQQ
+ALFFNFLSACCCYLGLAFGIL---AGSHFSANWIFALAGGMFLYISLADMFPEMNEVCQEDERKGslGLL
+TGFTIMVVL-TMYSG--
+>30:B4SPV6 Zinc transporter ZupT OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=zupT PE=3 SV=1 3 150 9e-41 1 32.7% 22.1% 332:503 101:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHDSLDKQDPAFRENSRE
+YLKRVALLTSIAITAHNFPEGLATFFATLESPSVGMPLAFAIAIHNIPEGIAIAVPVYFATQNK----FY
+AFSASLLSGLAEPVGAALGYWLLSglSHATFGWVFGLIAGVMVFLALDELLPA--AKRYAKGHETVYGLV
+AGMGTLAISLVLF----
+>31:B2FM90 Zinc transporter ZupT OS=Stenotrophomonas maltophilia (strain K279a) OX=522373 GN=zupT PE=3 SV=1 3 150 9e-41 1 32.7% 21.5% 332:503 101:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHDSLDKQDPAFRENSRE
+YLKRVALLTSVAITAHNFPEGLATFFATLESPSVGMPLAFAIAIHNIPEGIAIAVPVYFATQNK----FY
+AFSASLLSGLAEPVGAALGYWLLSglSHATFGWVFGLIAGVMVFLALDELLPA--AKRYAKGHETVYGLV
+AGMGTLAISLVLF----
+>32:Q8P8Z6 Zinc transporter ZupT OS=Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25) OX=190485 GN=zupT PE=3 SV=1 3 150 1e-40 1 33.3% 21.1% 332:506 101:270
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHQSLSTDDPQFRDDNRA
+YIRRVGLLTAVAITAHNFPEGLATFFATLESPAVGMPLAFAIAIHNIPEGIAIAVPVYFATRNK----FY
+AFGASLLSGLAEPIGAGIGYLLLSslSEAVFGAVFGVIAGVMVFLALDELLPA--AKRYAQGHETVYGLV
+SGMGTLAISLVLFRYA-
+>33:Q8BWY7 Zinc transporter ZIP11 OS=Mus musculus OX=10090 GN=Slc39a11 PE=1 SV=1 3 152 2e-40 1 41.0% 20.0% 287:501 122:339
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------KKSDPRDpsLLFPESELSIRIGSTGLLSDKRENGEVYQRKKVAATDLAEGVAPSghGSSGQPGG
+SSWRRIALLILAITIHNIPEGLAVGVGfsATFESARNLAIGIGIQNFPEGLAVSLPLRGAGFS----TWK
+AFWYGQLSGMVEPLAGVFGAF-AVVLAEPILPYALAFAAGAMVYVVMDDIIPE--AQISGNGKLASWASI
+LGFVVMMSLDV------
+>34:Q8XMG8 Zinc transporter ZupT OS=Clostridium perfringens (strain 13 / Type A) OX=195102 GN=zupT PE=3 SV=1 3 150 2e-40 1 37.7% 18.3% 307:503 93:284
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------IALIDKFVPEEENPHEVRSVEEVENEIEEYKGENKEGKADIKDK
+TLMRTGIVTALAIAIHNFPEGLATFVSALEGASLAIPITIAIAIHNIPEGISVSVPI----FYATGDKKK
+AFLYSFLSGMSEPIGAIIGYTLLRnfNDITLGILLSAVAGIMVFISLDELLP--TARKYGEHHLAIYGLI
+AGMVVMAVSLLLF----
+>35:Q08E40 Zinc transporter ZIP12 OS=Bos taurus OX=9913 GN=SLC39A12 PE=2 SV=1 3 157 3e-40 1 33.5% 23.9% 324:499 471:645
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------PGAKKGPEDAQAAEIPIPSvtPNRKCK
+TISLLAIMILVGDSLHNFADGLVIGAAFSSSSEAGVTTTIAILCHEIPHEMGDFAVLLSSGL----PVKI
+AILMNFISALTAFIGLYIG--LSVSTDPCIQNWILTVTAGMFLYLSLVEMLPEMTHVQTQRPWLMffGLT
+LGWLSLFLL--------
+>36:Q8PKQ5 Zinc transporter ZupT OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=zupT PE=3 SV=1 3 146 3e-39 1 33.3% 20.6% 332:506 101:270
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------NPHQSLSSDDPQFREDNRA
+YIRRVGLMTAVAITAHNFPEGLATFFATLESPAVGMPLAFAIAIHNIPEGIAIAVPVYFATRNK----FY
+AVGASLLSGLAEPVGAGIGYllFSVLSDAVFGTVFGLISGVMVFLALDELLPA--AKRYAQGHETVYGLV
+SGMGTLAISLVLFRFA-
+>37:B1HYT6 Zinc transporter ZupT OS=Lysinibacillus sphaericus (strain C3-41) OX=444177 GN=zupT PE=3 SV=1 3 146 4e-39 1 34.7% 22.3% 320:503 92:268
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DKFIPKSSNPHEVKLVEDVN--AIKPQVNED
+HLMKMGIFTALAIGIHNFPEGIATFMSAINDPNVGIAIAIAVAIHNIPEGIAVSVPIFFA----TGNRRK
+AFKLSFLSGLAEPVGALVAFLLLMplTDVMFGIIFAGVAGIMVFISLDELLPA--AQRYDETHLSMYGLV
+GGMAVMAISLVLL----
+>38:A4IGY6 Zinc transporter ZIP14 OS=Xenopus tropicalis OX=8364 GN=slc39a14 PE=2 SV=1 3 150 6e-39 1 40.6% 15.8% 285:505 241:457
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----TSKRDAEEGVtlQNGDLDHMIPPP-HGSESDLRGDEKAVQQQDLPGQQSSCYWLKGI------RYS
+DIGTLAWMITLSDGLHNFIDGLAIGASFTVSVFQGVSTSIAILCEEFPHELGDFVILLNAGMSIP----Q
+ALFFNFLSACCCYLGLAFGIL---AGSHFSSNWIFALAGGMFLYIALSDMFPEMNeeEGGRAFSAFmgLL
+TGFAIMLLL-TTFSG--
+>39:Q95KA5 Zinc transporter ZIP12 OS=Macaca fascicularis OX=9541 GN=SLC39A12 PE=2 SV=1 3 151 3e-38 1 32.1% 22.4% 319:492 472:634
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------NDKKSPEDSQAAEMPIGS-----MTAPNRKCK
+VISLLAIMILVGDSLHNFADGLAIGAAFSSSSESGVTTTIAILCHEIPHEMGDFAVLLSSGLS----MKT
+AILMNFISSLTAFIGLYIG--LSVSADPCVQDWIFTVTAGMFLYLSLVEMPPEMTHVQTQRPWMMFLLQN
+FG---------------
+>40:Q6P6S2 Zinc transporter ZIP11 OS=Rattus norvegicus OX=10116 GN=Slc39a11 PE=2 SV=1 3 144 8e-38 1 40.2% 18.8% 284:501 120:332
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---LVKKSDLKDPASLLFPERELSIRI-------DKRENGEVYQRKKLAATDFPEGAAPSGPVHGNSGQp
+sSWRRIALLILAITIHNIPEGLAVGVGfsATFESARNLAIGIGIQNFPEGLAVSLPLRGAGFS----TWK
+AFWYGQLSGMVEPLAGVFGAF-AVVLAEPVLPYALAFAAGAMVYVVMDDIIPE--AQISGNGKLASWASI
+LGFVVMMSLDV------
+>41:B7NJQ3 Zinc transporter ZupT OS=Escherichia coli O7:K1 (strain IAI39 / ExPEC) OX=585057 GN=zupT PE=3 SV=1 3 141 2e-37 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAVVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>42:Q1KZG0 Zinc transporter ZIP4 OS=Bos taurus OX=9913 GN=SLC39A4 PE=1 SV=1 3 148 3e-37 1 42.8% 15.2% 277:499 424:644
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------ERLF
+NLLLPLDPEDPKDGACSHGHSHGGHSHGVSLQLAPSDFRQPKQLHEGSRADLVAEESPELLSPEPRRRSP
+GLRLLPYVITLGDAVHNFADGLAVGAAFLSSWKTGLATSLAVFCHEVPHELGDFAALLHAGLS----VRR
+ALLLNVASALTAFIGLYV--ALAAGVGEDGETWILAVAAGLFLYVALCDMLPAMLNVRDRRPWLLFlgLL
+GGWTVLLLL--------
+>43:Q8C145 Zinc transporter ZIP6 OS=Mus musculus OX=10090 GN=Slc39a6 PE=1 SV=1 3 149 3e-37 1 30.0% 20.4% 343:499 593:752
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------SREELKDA
+GIATLAWMVIMGDGLHNFSDGLAIGAAFTEGLSSGLSTSVAVFCHELPHELGDFAVLLKAGMT----VKQ
+AVLYNALSAMLAYLGMATGIFI-GHYAENVSMWIFALTAGLFMYVALVDMVPEMLHNDASDhwGYFfgIL
+LGFGIMLLI--------
+>44:Q96H72 Zinc transporter ZIP13 OS=Homo sapiens OX=9606 GN=SLC39A13 PE=1 SV=3 3 143 4e-37 1 36.9% 19.8% 307:503 163:369
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------LALEKMFLDSKEEGTSQAPNKDPT--AAAAALNGGHCLAQPAAe
+sIKVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+SAAKLQLS---TALGGLLGAGFasPAAEETAAWVLPFTSGGFLYIALVNVLPDLLEEEDPWRSLQQLLLL
+CAGIVVMVLFSLF----
+>45:Q6PEH9 Zinc transporter ZIP10 OS=Danio rerio OX=7955 GN=slc39a10 PE=2 SV=1 3 149 4e-37 1 47.7% 17.0% 253:499 576:834
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------SDHKLNRRSDAEWLHLKpdGTTCEAGHN
+DTQMTELQPLDSPSKMPLNISDSDHPYEAPVknVPKAKSKKHGHGHGHGHGHGHGHSHHGHCHSDQekDA
+GIASIAWMVIMGDGMHNFSDGLAIGAAFSANITGGISTSVAVFCHELPHELGDFAVLLKAGMS----VKQ
+AIVYNLLSALMAYAGMVIGTAV-GQYTHNVTSWIFAVTAGMFLYVALVDMLPEMLHGDSEEHklQNFGML
+TGFGIMLLI--------
+>46:Q13433 Zinc transporter ZIP6 OS=Homo sapiens OX=9606 GN=SLC39A6 PE=1 SV=3 3 148 6e-37 1 30.0% 19.7% 343:499 583:742
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------SREELKDA
+GVATLAWMVIMGDGLHNFSDGLAIGAAFTEGLSSGLSTSVAVFCHELPHELGDFAVLLKAGMT----VKQ
+AVLYNALSAMLAYLGMATGIFI-GHYAENVSMWIFALTAGLFMYVALVDMVPEMLHNDASDhwGYFfgML
+LGFGIMLLI--------
+>47:Q5R9M9 Zinc transporter ZIP6 OS=Pongo abelii OX=9601 GN=SLC39A6 PE=2 SV=1 3 148 7e-37 1 30.0% 19.7% 343:499 571:730
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------SREELKDA
+GIATLAWMVIMGDGLHNFSDGLAIGAAFTEGLSSGLSTSVAVFCHELPHELGDFAVLLKAGMT----VKQ
+AVLYNALSAMLAYLGMATGIFI-GHYAENVSMWIFALTAGLFMYVALVDMVPEMLHNDASDhwGYFfgML
+LGFGIMLLI--------
+>48:Q9C0K1 Zinc transporter ZIP8 OS=Homo sapiens OX=9606 GN=SLC39A8 PE=2 SV=1 3 144 1e-36 1 42.6% 16.1% 282:505 220:455
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-LKTYGQNGHTHFGNDNFGPQEKThpKALPAINGVTCYANPAVTEANGHIHFDNVssLQDGKKEPspKLS
+EIGTIAWMITLCDALHNFIDGLAIGASCTLSLLQGLSTSIAILCEEFPHELGDFVILLNAGMS----TRQ
+ALLFNFLSACSCYVGLAFGILVGNNFAPNI---IFALAGGMFLYISLADMFPEMnkVTGRKTDFTFfgML
+TGFT-AILLITLYAG--
+>49:A0JPN2 Zinc transporter ZIP4 OS=Rattus norvegicus OX=10116 GN=Slc39a4 PE=2 SV=1 3 146 2e-36 1 37.9% 18.0% 300:499 452:647
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------HGGHSHGISL--QLSPSNLRQSKQPHESSRSDLVTEETPELLNPDTRRLRA
+ELRMLPYLITLGDAVHNFADGLAVGAAFSSTWKTGLATSLAVFCHELPHELGDFAALL-----HAGLTVK
+RALLLNLASALTAFAGLY-VALAVGVGEEGETWILAVATGLFLYVALCDMLPAMMNVRDQRPWLLFlgLL
+GGWTILLLL--------
+>50:Q9PIN2 Zinc transporter ZupT OS=Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168) OX=192222 GN=zupT PE=3 SV=1 3 139 2e-36 1 32.3% 22.9% 329:498 120:284
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------PQKGQNPPKFHPGEKLHQINTK
+ALKRTGIFTALAIAIHNFPEGFATFISSLDNLTLGIAIAIAVAIHNIPEGLAVSLPIYHA----TGDKKK
+AFIYSALSGFAEPLGAFVGALILLPfgDLTLAISFAVIAGIMVFISLDELLPA--AKTYDKAHDSLYGLI
+AGMAIMAL---------
+>51:Q8BZH0 Zinc transporter ZIP13 OS=Mus musculus OX=10090 GN=Slc39a13 PE=2 SV=1 3 141 2e-36 1 34.7% 21.1% 319:503 171:359
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------NSKEDPSQA-PSKDPTAAALNGGHCLAQPAAe
+nLKVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+TAAKLQFS---TALGGLLgcFAICTQSpeTVVWILPFTSGGFLYIALVNVLPDLLEEDDPWHSLQQVLLL
+CSGVLVMVLLSLF----
+>52:Q4V887 Zinc transporter ZIP6 OS=Rattus norvegicus OX=10116 GN=Slc39a6 PE=1 SV=1 3 145 5e-36 1 30.0% 20.4% 343:499 569:728
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------SREELKDA
+GIATLAWMVIMGDGLHNFSDGLAIGAAFTEGLSSGLSTSVAVFCHELPHELGDFAVLLKAGMT----VKQ
+AVLYNALSAMLAYLGMATGIFI-GHYAENVSMWIFALTAGLFMYVALVDMVPEMLHNDASDhwGYFfgIL
+LGFGIMLLI--------
+>53:Q9VAF0 Zinc transporter ZIP13 homolog OS=Drosophila melanogaster OX=7227 GN=Zip99C PE=2 SV=1 3 139 7e-36 1 36.1% 20.9% 319:505 166:355
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------EGETSESCGGACDIEDVGKveQEQKSKERKEQ
+PKKVAGYLNLLANSIDNFTHGLAVAGSFLVSFRHGILATFAILLHEIPHEVGDFAILLRSGFSR----WD
+AARAQLLTAGAGLLGALVAIGGSGVTseARTSWIMPFTAGGFLHIALVTVLPDLLKEEERKESIklLALV
+FGIALMAVMTMLFEH--
+>54:Q6P5W5 Zinc transporter ZIP4 OS=Homo sapiens OX=9606 GN=SLC39A4 PE=1 SV=4 3 144 7e-36 1 35.9% 17.0% 312:499 453:638
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------QLAPSELRQPKPPHEGSRADLVAEESPELLNPEPRRLSP
+ELRLLPYMITLGDAVHNFADGLAVGAAFASSWKTGLATSLAVFCHELPHELGDFAALLHAGLSVRQALLL
+NLASALTAFAGLYVALAVG------VSEESEAWILAVATGLFLYVALCDMLPAMLKVRDPRPWLLFlgLL
+GGWTVLLLL--------
+>55:Q8AW42 Zinc transporter ZIP13 OS=Danio rerio OX=7955 GN=slc39a13 PE=2 SV=1 3 138 2e-35 1 33.1% 19.3% 324:499 170:343
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------PQTNGICSNNNSDSKPKTDISPYTQPE
+KIKTSGYLNLLANCIDNFTHGLAVAGSFLVSRKVGFLTTFAILLHEIPHEVGDFAILL-----RAGFDRW
+KAARMQLS---TALGGVLGACFaqHGAENATTWILPFTSGGFLYIALVNVVPDLLEETNPrsLLQVLLLF
+SGIGVMALL--------
+>56:Q28J44 Zinc transporter ZIP11 OS=Xenopus tropicalis OX=8364 GN=slc39a11 PE=2 SV=1 3 138 3e-35 1 43.0% 16.4% 277:501 109:333
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------YSIA
+TLNQDSKPIKEKDEGDLYEDKELSIRIGRGGFHQDKIENGDVYQRKRGTVSPLAEDFSMLNPREAAHKGG
+SSWRRIMLLILAITIHNIPEGLAVGVGfsATFENARNLALGIGIQNFPEGLAVSLPLRGAGVS----TWK
+AFWYGQLSGMVEPIAGLLGT-IAISLAEPLLPYALAFAAGAMVYVVTDDIIPEAQAC--GNGKLASWTCI
+FGFIVMMSLDV------
+>57:Q5ZI20 Zinc transporter ZIP13 OS=Gallus gallus OX=9031 GN=SLC39A13 PE=2 SV=1 3 138 3e-35 1 38.9% 22.0% 295:499 156:363
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------IFLEKEEEECPGVGcaPLGKIPNGSGYPPSKVAGKSqeKNSTQCNGSSLQSCRTDN
+RIKISGYLNLLANTIDNFTHGLAVAASFLVSRKVGFLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+SAAKMQLS---TALGGIVgcFAICAQSPKGAgwILPFTSGGFLYIALVNVVPDLLEEKNPWNSLQQILLL
+cgITVMVLL--------
+>58:Q5FVQ0 Zinc transporter ZIP8 OS=Rattus norvegicus OX=10116 GN=Slc39a8 PE=2 SV=1 3 140 4e-35 1 37.1% 15.3% 310:505 261:457
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------NPAVTEPNGHIHFDTVSVVSLQDGKAESSSCTCLKG-PKLS
+EIGTIAWMITLCDALHNFIDGLAIGASYTLSLLQGLSTSIAILCEEFPHELGDFVILLNAGMS----TRQ
+ALLFNFLSACSCYVGLAFGILVGNNFAPNI---IFALAGGMFLYISLADMFPEMneKVTGRQTDFTFFMi
+aGMltAILLITLYAG--
+>59:Q78IQ7 Zinc transporter ZIP4 OS=Mus musculus OX=10090 GN=Slc39a4 PE=1 SV=1 3 142 6e-35 1 41.2% 16.0% 281:499 439:651
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+NLLLPRDQDSEKDGPCS--HGGHSHGISL--QLAPSNLRQSKQTHESSRSDLVAEETPELLNPETRRLRA
+ELRLLPYLITLGDAVHNFADGLAVGAAFSSSWKTGLATSLAVFCHELPHELGDFAALLHAGLSVKRALLL
+NLASALTAFAGLYVALAVGVG------EEGEAWILAVATGLFLYVALCDMLPAMMNVRDQRPWLLFlgLL
+GGWTVLLLL--------
+>60:Q91W10 Zinc transporter ZIP8 OS=Mus musculus OX=10090 GN=Slc39a8 PE=2 SV=1 3 139 9e-35 1 39.6% 16.3% 298:505 236:457
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------FGSKEKThtLPLPAVNGVTCYANPAVTEPNGHIHFDTVssLQDGKTEPspKLS
+EIGTIAWMITLCDALHNFIDGLAIGASCTLSLLQGLSTSIAILCEEFPHELGDFVILLNAGMS----TRQ
+ALLFNFLSACSCYVGLAFGILVGNNFAPNI---IFALAGGMFLYISLADMFPEMneKVTGRQTDFTFFMi
+aGMltAILLITLYAG--
+>61:Q940Q3 Zinc transporter ZTP29 OS=Arabidopsis thaliana OX=3702 GN=ZTP29 PE=2 SV=1 3 134 1e-34 1 35.5% 20.4% 319:504 89:271
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------EPTLGPSTDGKRRKKNGDE--GGKDMMKKHRK
+QVLYSGLITAIGISLHNFPEGMAVFLGSIKGMRVGVNLALAIALHNIPEGVAVALPIYFATESK----WQ
+AFKLATLSGLAEPLgiIVAYLFPRSLSPEILEGLLGAVGGIMAFLTLHEMLPLAFDYAGQKqkAVFFGMA
+CMSASLYFLELSLP---
+>62:Q9VSL7 Zinc transporter foi OS=Drosophila melanogaster OX=7227 GN=foi PE=1 SV=3 3 141 2e-34 1 28.8% 19.7% 348:499 536:683
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------PPE
+TLSAVAWMIIMGDGLHNFTDGMAIGAAFAENIAGGFSTSLAVFCHELPHELGDFAILIKAGMS----VKS
+AVYYNLLTGVLSFIGMIFGIAF--GQSQDVAQWMFAVAAGLFIYIALVDMMPEisHKSLGQFLLQILGML
+SGVGIMLLI--------
+>63:Q5R6I6 Zinc transporter ZIP13 OS=Pongo abelii OX=9601 GN=SLC39A13 PE=2 SV=1 3 133 7e-34 1 29.8% 20.8% 345:503 171:326
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------DSKEEG
+TSQVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+SAAKLQLS---TALGGLLGAGFAICTqeETAAWVLPFTSGGFLYIALVNVLPDLLEEEDPWRSLQQLLLL
+CAGIVVMVLFSLF----
+>64:B5YR85 Zinc transporter ZupT OS=Escherichia coli O157:H7 (strain EC4115 / EHEC) OX=444450 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>65:A1AFW5 Zinc transporter ZupT OS=Escherichia coli O1:K1 / APEC OX=405955 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>66:B1XG45 Zinc transporter ZupT OS=Escherichia coli (strain K12 / DH10B) OX=316385 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>67:P0A8H5 Zinc transporter ZupT OS=Escherichia coli O157:H7 OX=83334 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>68:Q3YXK1 Zinc transporter ZupT OS=Shigella sonnei (strain Ss046) OX=300269 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>69:B1ISB7 Zinc transporter ZupT OS=Escherichia coli (strain ATCC 8739 / DSM 1576 / Crooks) OX=481805 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>70:B7LGI2 Zinc transporter ZupT OS=Escherichia coli (strain 55989 / EAEC) OX=585055 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>71:A7ZRS2 Zinc transporter ZupT OS=Escherichia coli O139:H28 (strain E24377A / ETEC) OX=331111 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>72:B1LF36 Zinc transporter ZupT OS=Escherichia coli (strain SMS-3-5 / SECEC) OX=439855 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>73:P0A8H3 Zinc transporter ZupT OS=Escherichia coli (strain K12) OX=83333 GN=zupT PE=1 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>74:Q0TD62 Zinc transporter ZupT OS=Escherichia coli O6:K15:H31 (strain 536 / UPEC) OX=362663 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>75:P0A8H4 Zinc transporter ZupT OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>76:A8A4J6 Zinc transporter ZupT OS=Escherichia coli O9:H4 (strain HS) OX=331112 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>77:B7LZI9 Zinc transporter ZupT OS=Escherichia coli O8 (strain IAI1) OX=585034 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>78:B7MAB7 Zinc transporter ZupT OS=Escherichia coli O45:K1 (strain S88 / ExPEC) OX=585035 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>79:B6I411 Zinc transporter ZupT OS=Escherichia coli (strain SE11) OX=409438 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>80:B7ND33 Zinc transporter ZupT OS=Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC) OX=585056 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>81:C4ZQV8 Zinc transporter ZupT OS=Escherichia coli (strain K12 / MC4100 / BW2952) OX=595496 GN=zupT PE=3 SV=1 3 131 9e-34 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>82:Q32BU5 Zinc transporter ZupT OS=Shigella dysenteriae serotype 1 (strain Sd197) OX=300267 GN=zupT PE=3 SV=1 3 131 1e-33 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVVGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>83:B7LQB7 Zinc transporter ZupT OS=Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CDC 0568-73) OX=585054 GN=zupT PE=3 SV=1 3 131 1e-33 1 31.4% 18.8% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKTQQPLPK
+SIRRTAILLTLGISLHNFPEGIATFVTASSNLELGMGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPVVMAAVMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVM-----------
+>84:B7UIV3 Zinc transporter ZupT OS=Escherichia coli O127:H6 (strain E2348/69 / EPEC) OX=574521 GN=zupT PE=3 SV=1 3 131 1e-33 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SLKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>85:B7N0I9 Zinc transporter ZupT OS=Escherichia coli O81 (strain ED1a) OX=585397 GN=zupT PE=3 SV=1 3 130 2e-33 1 32.7% 17.4% 332:503 85:251
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQPLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLL----
+>86:B4TI40 Zinc transporter ZupT OS=Salmonella heidelberg (strain SL476) OX=454169 GN=zupT PE=3 SV=1 3 130 3e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>87:P67470 Zinc transporter ZupT OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>88:B5FV58 Zinc transporter ZupT OS=Salmonella dublin (strain CT_02021853) OX=439851 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>89:B4T660 Zinc transporter ZupT OS=Salmonella newport (strain SL254) OX=423368 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>90:B5QZ27 Zinc transporter ZupT OS=Salmonella enteritidis PT4 (strain P125109) OX=550537 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>91:B4TVS2 Zinc transporter ZupT OS=Salmonella schwarzengrund (strain CVM19633) OX=439843 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>92:C0PYW1 Zinc transporter ZupT OS=Salmonella paratyphi C (strain RKS4594) OX=476213 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>93:A9N5W7 Zinc transporter ZupT OS=Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7) OX=1016998 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>94:B5REE9 Zinc transporter ZupT OS=Salmonella gallinarum (strain 287/91 / NCTC 13346) OX=550538 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>95:Q57JS2 Zinc transporter ZupT OS=Salmonella choleraesuis (strain SC-B67) OX=321314 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>96:P67471 Zinc transporter ZupT OS=Salmonella typhi OX=90370 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>97:B5F683 Zinc transporter ZupT OS=Salmonella agona (strain SL483) OX=454166 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>98:Q5PMU9 Zinc transporter ZupT OS=Salmonella paratyphi A (strain ATCC 9150 / SARB42) OX=295319 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>99:B5BG02 Zinc transporter ZupT OS=Salmonella paratyphi A (strain AKU_12601) OX=554290 GN=zupT PE=3 SV=1 3 129 4e-33 1 31.4% 18.2% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVQKRQQPLPG
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEILGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSIM-----------
+>100:Q7UBJ3 Zinc transporter ZupT OS=Shigella flexneri OX=623 GN=zupT PE=3 SV=1 3 129 4e-33 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQLLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>101:Q0T0L8 Zinc transporter ZupT OS=Shigella flexneri serotype 5b (strain 8401) OX=373384 GN=zupT PE=3 SV=1 3 129 4e-33 1 33.3% 17.7% 332:506 85:254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKSVQLLPK
+SIKRTAILLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLAWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVMGFSLVLLQTA-
+>102:A9MPX1 Zinc transporter ZupT OS=Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980) OX=41514 GN=zupT PE=3 SV=1 3 129 8e-33 1 31.4% 17.0% 332:496 85:244
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLVPKRQQPIPG
+SIKRTAVLLTLGISLHNFPEGIATFVTASSNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AIFWAGISGMAEIFGGVLAWLILGSlsPIVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVM-----------
+>103:Q5E960 Zinc transporter ZIP3 OS=Bos taurus OX=9913 GN=SLC39A3 PE=2 SV=1 3 129 1e-32 1 36.5% 17.6% 307:499 122:309
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------NASSDAGSDSEYESPFMGGPRGHALYAEPHGHSHGLSVQELSRS
+SPLRL-LSLVFALSAHSVFEGLALGLQEEGEKVVSLFVGVAI------HETLVAVALGINMARSAMALRD
+AAKLAVTVSAMIPLGISLGLGiaQGMPSSVASVLlgLAGGTFLFVTFFEILAKELEEKSDR-LLKVLFLV
+LGYTVLAGM--------
+>104:Q2M1K6 Zinc transporter ZIP13 OS=Rattus norvegicus OX=10116 GN=Slc39a13 PE=2 SV=1 3 130 2e-32 1 31.0% 20.0% 319:483 171:340
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------NCKEEDPSQAPSKDPTAAALNGGHCLAQPAAe
+nLKVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+TAAKLQFS---TALGGLLgcFAICTQSpeTVVWTLPFTSGGFLYVALVNVLPDLLEEDDPWHL-------
+-----------------
+>105:A4WEI1 Zinc transporter ZupT OS=Enterobacter sp. (strain 638) OX=399742 GN=zupT PE=3 SV=1 3 127 3e-32 1 33.1% 17.8% 332:505 85:257
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LPHAHPQDLMQKNAKPTRG
+NIKRTAILLTLGISLHNFPEGVATYVTASNNLELGFGIALAVALHNIPEGLAVAGPVYAA----TGSKRT
+AILWAGISGLAEILGGVLTWLILGSmsPVVMAAIMAAVAGIMVALSVDELMP--LAKEIDPNNNPSYGVL
+CGMSVmvLLQTAGFG--
+>106:P59889 Zinc transporter ZIP1 OS=Danio rerio OX=7955 GN=slc39a1 PE=2 SV=1 3 128 3e-32 1 33.3% 22.3% 321:499 127:298
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------PNGHAHGHPSVNDLEGSGHHVHVDFHAHSS
+FRS---FMLFLSLSLHSVFEGLAIGLQTTNAKV--LEICIAILVHKSIIVFSLSVKLVQSAVK----PLW
+VVLYVTVFAIMSPLGIGIGIVVIEtaGGLIQAVLEGLAAGTFIYITFLEILPHEL-NSSERPLLKVLFLL
+CGFSIMAAL--------
+>107:Q9V3A4 Protein catecholamines up OS=Drosophila melanogaster OX=7227 GN=Catsup PE=2 SV=1 3 131 4e-32 1 34.3% 20.3% 318:499 270:445
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------SSDKEDSGDGDKPAKPAKIKSKKPEAEPE---G
+EVEISGYLNLAADFAHNFTDGLAIGASYLAGNSIGIVTTITILLHEVPHEIGDFAILI-----KSGCSRR
+KAMLLQLVTALGALAGTALALLGAGGGDGSAPWVLPFTAGGFIYIATVSVLPELLEEStkQSLKEIFALL
+TGVALMIVI--------
+>108:Q31125 Zinc transporter SLC39A7 OS=Mus musculus OX=10090 GN=Slc39a7 PE=1 SV=2 3 131 7e-32 1 39.1% 16.7% 301:503 264:475
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------HGDSHTHGDRHECSSKEKPSTEEEKerGGNTGPRDGPVKPQSPEEEKAGS
+DLRVSGYLNLAADLAHNFTDGLAIGASFRGGRGLGILTTMTVLLHEVPHEVGDFAILV-----QSGCSKK
+QAMRLQLVTAIGALAGTACALLTEGGAVDSdgWVLPFTAGGFIYVATVSVLPELLREASPLQSLLEVLGL
+LGGVAMMVLIAHL----
+>109:A4IIC5 Zinc transporter ZIP3 OS=Xenopus tropicalis OX=8364 GN=slc39a3 PE=2 SV=1 3 127 1e-31 1 36.5% 18.1% 307:499 121:309
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------NAGSDIGSDSEFESPFISAN-HGHNLYEGGHSHHSHSLNIKELS
+SSSPIRLflVFALSAHSVFEGLALGLQEDGNKL--LSLFIGVVIHETLVAMALGVSMAKVNTH----LKD
+AIKMAVLVSTMIPIGIVVGMAIQSAqsSIASALLQGIAGGTFIFVTFFEILVKELEEKNDR-LLKVLFLV
+LGYTVLAVL--------
+>110:Q92504 Zinc transporter SLC39A7 OS=Homo sapiens OX=9606 GN=SLC39A7 PE=1 SV=2 3 128 7e-31 1 34.7% 19.9% 323:503 286:468
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------VQKRRGGSTVPKDGPVRPQNAEEEKRGL
+DLRVSGYLNLAADLAHNFTDGLAIGASFRGGRGLGILTTMTVLLHEVPHEVGDFAILV-----QSGCSKK
+QAMRLQLLTAVGALAGTACALLTEGGAVGSegWVLPFTAGGFIYVATVSVLPELLREASPLQSLLEVLGL
+LGGVIMMVLIAHL----
+>111:Q99K24 Zinc transporter ZIP3 OS=Mus musculus OX=10090 GN=Slc39a3 PE=1 SV=1 3 125 7e-31 1 36.7% 17.6% 307:499 122:312
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------NAGSDAGSDSEYESPFVggNRSHSLYPEPTAHTHGAGLRLRELG
+RPGPLRLllVFALSAHSVFEGLALGLQEEGERVVSLFVGVAI------HETLVAVALGISMARSAVPLRD
+AAKLAVTVSAMIPVGIGLGLGIESARSVAssALLQGLAGGTFLFVTFLEILAKELEERS-EQLLKVLFLV
+LGYAVLAGM--------
+>112:Q54MB9 Protein zntC OS=Dictyostelium discoideum OX=44689 GN=zntC PE=2 SV=1 3 126 1e-30 1 32.7% 26.6% 327:499 227:397
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------GHNHDHSSNGHSHKDEKDSEKVNV
+SSKSKAWVFLVALSLHSIFDGLGLGSETQKDSFYGLL--IAVLAHKFLDGLVLGIAI----KYAYFSFKF
+SCIALVFAAAMTPLGIGIGMAISSAYESSTdgIILSITCGSFIYISLIELLPSGL-CQKGWPKLKLAVAF
+LGYSVMAIL--------
+>113:Q5U1X7 Zinc transporter ZIP3 OS=Rattus norvegicus OX=10116 GN=Slc39a3 PE=1 SV=1 3 123 3e-30 1 36.7% 16.6% 307:499 122:312
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------NAGSDAGSDSEYESPFVggGRNHGLYPEPTAHSHGTGLRLRELG
+RPGPLRLllVFALSAHSVFEGLALGLQEEGERVVSLFVGVAV------HETLVAVALGISMARSAVPLRD
+AAKLAVTVSAMIPVGIGLGLGIESARSVAssALLQGLAGGTFLFVTFLEILAKELEERS-EQLLKVLFLV
+LGYAVLAGM--------
+>114:A8X482 Zinc transporter zipt-7.2 OS=Caenorhabditis briggsae OX=6238 GN=zipt-7.2 PE=3 SV=2 3 126 3e-30 1 28.0% 21.3% 350:499 323:472
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------------Q
+TIKVTAYLNLAADFAHNFTDGLAIGASFIAGTTVGVVTMITVLVHEVPHEIGDFAILIQSGYSK------
+--KKAMLIQLVTALGALSGCVIsaLADAAASSWVLPFTAGGFIYIATVSVIPELLENSSFFQTIkiFALL
+TGIFLMYLI--------
+>115:Q9BRY0 Zinc transporter ZIP3 OS=Homo sapiens OX=9606 GN=SLC39A3 PE=1 SV=2 3 123 3e-30 1 36.5% 16.6% 307:499 122:309
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------NAGSDVGSDSEYESPFMGGARGHALYVEPHG-HGPSLSVQGLSR
+ASPVRLLSLAFALSAHSVFEGLALGLQEEGEKVVSLFVGVAV------HETLVAVALGISMARSAMPLRD
+AAKLAVTVSAMIPLGIGLGLGiaQGVPGSVASVLlgLAGGTFLFITFLEILAKELEEKSDR-LLKVLFLV
+LGYTVLAGM--------
+>116:Q06916 Protein GufA OS=Myxococcus xanthus OX=34 GN=gufA PE=4 SV=1 3 121 3e-30 1 31.2% 23.1% 332:500 92:250
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------MPHEHALKGHEGHG----G
+TKWNSALLFVLAMTLHNFPEGLAVGVSFAaqPELGLSVALGIGAQNIPEGLVVALALRASGASASRAA--
+--FLALLTGMVEPVGALFG-VLALSLSSALLPWGLAFAGGAMLYVISHEMIPE--SHRGGFEREATTGLM
+WGFVLALVLD-------
+>117:Q5RFD5 Zinc transporter SLC39A7 OS=Pongo abelii OX=9601 GN=SLC39A7 PE=2 SV=1 3 125 6e-30 1 30.0% 20.4% 323:479 286:444
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------VQKRRGGSTVPKDGPVRPQNAEEEKRGL
+DLRVSGYLNLAADLAHNFTDGLAIGASFRGGRGLGILTTMTVLLHEVPHEVGDFAILV-----QSGCSKK
+QAMRLQLLTAVGALAGTACALLTEGGAVGSegWVLPFTAGGFIYVATVSVLPELLREAS-----------
+-----------------
+>118:Q9XTQ7 Zinc transporter zipt-7.2 OS=Caenorhabditis elegans OX=6239 GN=zipt-7.2 PE=3 SV=2 3 125 6e-30 1 28.0% 22.0% 350:499 309:458
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------------Q
+SIKVTAYLNLAADFTHNFTDGLAIGASFIAGTTVGIVTMITVLVHEVPHEIGDFAILIQSGYSK------
+--KKAMLIQLVTALGALSGCVISllADAAASSWVLPFTAGGFIYIATVSVIPELLENSSFFQTVkiFAIL
+TGIFLMYLI--------
+>119:Q54LY6 Protein zntB OS=Dictyostelium discoideum OX=44689 GN=zntB PE=2 SV=1 3 122 1e-29 1 29.0% 26.1% 352:504 171:318
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-LNSVGIATAIGVSLHNFPEGVAVYLACLKGIDVGLPLMLAIAAHNIPEGMAVAAPIFSA----TGSKWK
+AFKYCLYSGLCEPVGAIigLIFKEYMTPYLIQSMLAAVAGIMVFMVIKELLPAAFKYVSVDE--SAFSNI
+IGMIFFFFSIHFLH---
+>120:Q9D856 Zinc transporter ZIP5 OS=Mus musculus OX=10090 GN=Slc39a5 PE=1 SV=1 3 124 2e-29 1 36.3% 16.9% 290:484 318:502
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------NKRDLGEPNPDPEDGSGMVLRPLQAASE------PEVQGQRENRQspSLAPPGHQGHSHEH
+RGGSIAWMVLLGDCLHNLTDGLALGAAFSDGFSSGLSTTLAVFCHELPHELGDFAMLLQE-----GLSFR
+KLLLLSLVSGALGLGGAALGVGLSLGPVPLTPWVFGTTAGVFLYVALVDMLPTLLRPPEPLPVF------
+-----------------
+>121:Q94EG9 Zinc transporter 11 OS=Arabidopsis thaliana OX=3702 GN=ZIP11 PE=2 SV=1 3 119 8e-29 1 32.7% 15.9% 330:499 146:321
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------SKTQNDLELQGEDKSNQRSAT
+TETSIgiLLIVALCFHSVFEGIAIGISETKSD--AWRALWTITLHKIFAAIAMGIALLRMIPDRPLFS--
+SITYSFAFAISSPIGVAIGIVIDATTQGSIADWIFalACGVFVYVSVNHLLAKGykVHVDEPRYKFLAVL
+FGVVVIAIV--------
+>122:O94402 Probable zinc transporter zip2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=zip2 PE=3 SV=2 3 121 9e-29 1 40.2% 19.5% 291:500 171:384
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------PSGTHLHEGSLLLEDSSARHSSDSVHEYLVKK-PSNCDCECHAHFSSFPTHSGTPDDIEh
+sVYTMGIQTALLICLHKVPEGFITFLASTVDT--GFMVLVAMSIHNIVEGFTIAYPLYLAWKSRPKAFLT
+A---ATLSSCSLPLGSLIAFLVMEAGGIGSsgIIFAGTAGMMLILSLRVILPEAlhDHSENKRHSFICFT
+IGILFTLFLE-------
+>123:Q3KR82 Zinc transporter ZIP9 OS=Rattus norvegicus OX=10116 GN=Slc39a9 PE=2 SV=1 3 118 9e-29 1 36.5% 25.5% 294:485 60:278
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------HALYEEVLEGKHHQAsnVIASDKAAEISVVHEHEHSHDHTQLHasSHVHSTDDPESA
+RPSSSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PAMSMLTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEDTSTNQSGSSLS-----
+-----------------
+>124:O81123 Zinc transporter 1 OS=Arabidopsis thaliana OX=3702 GN=ZIP1 PE=2 SV=1 3 119 1e-28 1 35.3% 18.4% 315:499 156:351
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------SNNHGSKQVneEEHAGHVHIHTHASHGHTHGSTELI
+RRRIVSQVLEIGIVVHSVIIGISLGASQSIDTIK--PLMAALSFHQFFEGLGLGGCISLADMK----SKS
+TVLMATFFSVTAPLGIGIGLGMSSGlaIMVEGMLNAASAGILIYMSLVDLLATDFMNPRLqhLAAYLSLV
+LGAGSMSLL--------
+>125:Q9XUC4 Zinc transporter zipt-7.1 OS=Caenorhabditis elegans OX=6239 GN=zipt-7.1 PE=2 SV=2 3 120 1e-28 1 33.3% 14.5% 314:486 193:366
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------GGHCHSHENGHIVADEHRHLNEHDHEHSEEKKQQVek
+DVKASAYLNLVADFVHNVTDGLAIGASFSAGNTLGWITTLTVLLHELPHEVGDFAILVQSGFSKY----Q
+AIRLQAVTALGAITGCVFSLLVSNPGsdADTSAIMPFTAGGFIYIATVSVVPELLESGDHNNLSKV----
+-----------------
+>126:Q9M647 IAA-alanine resistance protein 1 OS=Arabidopsis thaliana OX=3702 GN=IAR1 PE=2 SV=3 3 121 2e-28 1 39.8% 18.9% 286:497 254:463
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----HNNLDQQSSS--DAIVNSSEKVSGGSTDKSLRKRKTSASDATDKSDSGTEITSDGKSDKPEQVET
+RSSSlgYLNLFSDGVHNFTDGMALGSAFlyGSVGGWSRTMFLLAHELPQEIGDFGILVRSGFTVT----K
+ALFFNFLSALVALAGTAL--VLVWGNEPGQSSLIEGFTAGGFIYIAVAGVLAEM--NNSGKSTLklISLI
+LGMSVAL----------
+>127:Q8BFU1 Zinc transporter ZIP9 OS=Mus musculus OX=10090 GN=Slc39a9 PE=2 SV=1 3 117 3e-28 1 33.9% 25.1% 296:474 66:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------VLEGKHHQTSEMKQNGIASDKAAEISSVHEHEHSHDHTQLHasSHVHSSDDPETA
+RPSSSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PAMSMLTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEV----------------
+-----------------
+>128:Q6ZMH5 Zinc transporter ZIP5 OS=Homo sapiens OX=9606 GN=SLC39A5 PE=1 SV=3 3 121 4e-28 1 34.5% 19.7% 283:475 324:498
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--NLETRNLDPENGSGMALQPLQAAPE--PGAQGQREKNSQHPPALAPPGHQGHSHGHQGG---------
+--TDITWMVLLGDGLHNLTDGLAIGAAFSDGFSSGLSTTLAVFCHELPHELGDFAMLL-----QSGLSFR
+RLLLLSLVSGALGLGGAVLGVGLSLGPVPLTPWVFGVTAGVFLYVALVDMLPALL---------------
+-----------------
+>129:Q5TJF6 Zinc transporter SLC39A7 OS=Canis lupus familiaris OX=9615 GN=SLC39A7 PE=3 SV=1 3 119 5e-28 1 29.8% 20.5% 324:479 287:444
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------RKRKGGSTRLKDGPLRPQNSEEEKTGS
+DLRVSGYLNLAADLAHNFTDGLAIGASFRGGRGLGILTTMTVLLHEVPHEVGDFAILV-----QSGCSKK
+QAMRLQLLTAIGALAGTACALLTEGGAVGssGWVLPFTAGGFIYVATVSVLPELLREAS-----------
+-----------------
+>130:Q9NUM3 Zinc transporter ZIP9 OS=Homo sapiens OX=9606 GN=SLC39A9 PE=2 SV=2 3 116 6e-28 1 34.3% 25.4% 294:474 60:266
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------HALYEDILEGKHHQAsnVIASDKAAEKSVVHEHEHSHDHTQLHAysHVHSTDDPEAA
+RSSNSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVMSMVTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEV----------------
+-----------------
+>131:A8WMY3 Zinc transporter zipt-7.1 OS=Caenorhabditis briggsae OX=6238 GN=zipt-7.1 PE=3 SV=2 3 118 6e-28 1 35.1% 15.3% 294:476 176:355
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------GILVFMMVEQLVRIIKGGHCHSH-ENGHIVADEHRHLNDDHHHHHNGEKKQEVEGLK
+DIKASAYLNLVADFVHNMTDGLAIGASFSAGSTLGWVTTLTVLLHELPHEVGDFAILVQSGFSKY----Q
+AIRMQAVTALGAITGCIFSLLISNPvaEGDTGAIMPFTAGGFIYIATVSVIPELLE--------------
+-----------------
+>132:P40544 Zinc transporter YKE4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YKE4 PE=1 SV=1 3 116 1e-27 1 35.3% 23.0% 320:502 148:346
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DKTMRILSGTSNDDGSIHSHSHSHTPQQTAE
+KKamSAYLNVISGIAHHITDGIALATSFYSSTQVGIMTSIAVTFHEIPHELGDFAILLSSGFT----FPQ
+AIRAQAVTAFGAVVGTSIGCWmaTSSSANASELMLPFTAGGLIYIATTSVVPQILHSSAPDSklQLVFIF
+VGFAVMALMDEH-----
+>133:Q94DG6 Zinc transporter 1 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP1 PE=1 SV=1 3 116 2e-27 1 27.6% 18.8% 356:499 201:348
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----AVLLIVALCFHSVFEGIAIGVSASKSE--AWRNLWTIGLHKIFAAVAMGIALLRMIPKRPFLM--
+TVVYSLAFAVSSPVGVGIGIAIDATSQGRAADWtmGLATGVFIYVAINHLIAKGYRPhaDKPLFKFLAVL
+LGVAVMAVV--------
+>134:Q9QZ03 Zinc transporter ZIP1 OS=Mus musculus OX=10090 GN=Slc39a1 PE=2 SV=3 3 113 8e-27 1 32.1% 22.4% 326:499 153:319
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------NGGPQHWHDGPGIPQAGGTP---AA
+PSALRACVLVFSLALHSVFEGLAVGLQ--RDRARAMELCLALLLHK-----GILAVSLSLRLLQSHLRVQ
+VVAggILFSCMTPLGIGLGAALagPLHQLAQSVLEGMAAGTFLYITFLEILPQELATSEQR-ILKVILLL
+AGFALLTGL--------
+>135:Q9NY26 Zinc transporter ZIP1 OS=Homo sapiens OX=9606 GN=SLC39A1 PE=1 SV=1 3 113 1e-26 1 32.1% 21.8% 326:499 153:319
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------NGGPQHWHDGPGVPQASGAPATPSA
+---LRACVLVFSLALHSVFEGLAVGLQ--RDRARAMELCLALLLHK-----GILAVSLSLRLLQSHLRAQ
+VVAggILFSCMTPLGIGLGAALagPLHQLAQSVLEGMAAGTFLYITFLEILPQELASSEQR-ILKVILLL
+AGFALLTGL--------
+>136:Q3SYU3 Zinc transporter ZIP1 OS=Bos taurus OX=9913 GN=SLC39A1 PE=2 SV=1 3 111 4e-26 1 32.1% 22.4% 326:499 153:319
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------NGGPQHWHDGL---GVPQAGGASSA
+PSALRACVLVFSLALHSVFEGLAVGLQ--RDQARAMELCLALLLHK-----GILAVSLSLRLLQSHLRAQ
+VVAggILFSCMTPLGIGLGTALagPLHQLAQSVLEGMAAGTFLYITFLEILPQELATSEQR-ILKVILLL
+AGFALLTGL--------
+>137:Q6NTL1 Zinc transporter ZIP9-A OS=Xenopus laevis OX=8355 GN=slc39a9-a PE=2 SV=1 3 109 2e-25 1 39.8% 23.0% 291:499 56:297
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------PEGVHALYEEILEAKHHDLGEIHKVKEAETGAETSVAHEHDHSNLHasSHMHSADDPEAA
+RAASSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVLSMLTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEvvGAAKGLSRLEVCALV
+LGCLIPLVL--------
+>138:Q9FIS2 Probable zinc transporter 12 OS=Arabidopsis thaliana OX=3702 GN=ZIP12 PE=2 SV=1 3 109 3e-25 1 38.7% 17.7% 297:499 145:351
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------LNRSRLAKEGKTLPVSTGGEEEHAHTGSAHTHASQGHSHGSLLIPQ-DDDHIDM
+RKKIVTQILELGIVVHSVIIGISLGASPSVSTIK--PLIAAITFHQLFEGFGLGGCISEAKFR----VKK
+IWVMLMFFALTAPIGIGIGIGVasPMALKVSGFLNATASGILIYMALVDLVAPLFMNQKTQSSMKivSLV
+VGAGLMSLL--------
+>139:Q6NRM1 Zinc transporter ZIP9-B OS=Xenopus laevis OX=8355 GN=slc39a9-b PE=2 SV=1 3 108 5e-25 1 39.6% 23.9% 291:499 56:297
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------PEGVHALYEEALEAKHHEMGEIHKVKDAETGAEASVAHEHDHSNLHasSHMHSADDPEAA
+RAASSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLlfALAAPL---LSMLTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEvlGAAKGLSRLEVCALV
+LGCLIPLVL--------
+>140:Q55EA1 Protein zntD OS=Dictyostelium discoideum OX=44689 GN=zntD PE=2 SV=1 3 112 7e-25 1 29.4% 22.4% 348:499 529:679
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------TKK
+SNILLPFILVIALSIHSLFEGLAMGVQSSEIRVFDIL--IAIFAHKILASFALGISTITSSNEKPSFLKL
+-FLLVFVFSLTSPIGSILGMVIVGSggSMVPPILQGIASGTFLYVAVVEIIPKELSHDSNDILIKSFLLL
+LGFSGMAVV--------
+>141:Q9UT11 Uncharacterized zinc transporter P8A3.03 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAP8A3.03 PE=3 SV=1 3 110 8e-25 1 39.6% 21.7% 287:498 234:444
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------KKDGEETSSVNKPSASSTQTDVKGVEGLRKRNVKDDQNSKGHEPDLIR------HVVEEVSEEY
+NDKTVVYLNLLCDSFHNFMDGLAITSAFFTNTSIGISTTFAVLLHEIPAEIGDLAILL-----RNGYTKS
+QVLVLQMITMVTglGAIVATYiyGSFLLQLEDKLLPFTAGGFLYIAYLGVFPELLEINLSKGKLGNMIYT
+ALYMMFIV---------
+>142:Q640S1 Zinc transporter ZIP9 OS=Xenopus tropicalis OX=8364 GN=slc39a9 PE=2 SV=1 3 107 8e-25 1 39.8% 22.5% 291:499 56:297
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------PEGVHALYEEVLEAKHHDMGDIHKAKDAETGAEISAAHEHDHSNLHasSHMHSADDPEAA
+RAASSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVLSMLTYLGLSKSstGVAMLFSAGTFLYVATVHVLPeeVGATKGLSRLEVCALV
+LGCLIPLVL--------
+>143:Q6QQT1 Zinc transporter ZIP1 OS=Takifugu rubripes OX=31033 GN=slc39a1 PE=2 SV=1 3 107 1e-24 1 30.6% 23.6% 335:499 141:298
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------ESSGHHVHVDFQAHSP
+FRS---FMLFLSLSLHSIFEGLAIGLQTTDPKVV--EICIAILVHKSIIVFSLAVKLVQS----AIPPLW
+VAAYIGVFALMSPVGIAIGISVMEAqgPLIQAILEGFAAGTFVYITFLEILPHEL-NSPGKQLLKVLFLL
+LGFSIMAAL--------
+>144:Q5ZIU9 Zinc transporter ZIP9 OS=Gallus gallus OX=9031 GN=SLC39A9 PE=2 SV=1 3 106 2e-24 1 40.4% 23.1% 294:505 60:305
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------HALYEDILEGKHHPaqHVMESEKVAEIAVVHEYGHDHSRLHaiGSSHVHSTDDPEAA
+RSGNSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVMSMVTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEvpESTGGKGllEVAALV
+LGCLIPLVLSIGHHH--
+>145:Q9SLG3 Zinc transporter 3 OS=Arabidopsis thaliana OX=3702 GN=ZIP3 PE=2 SV=1 3 106 4e-24 1 35.3% 16.2% 315:499 145:335
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------DTFATSSFYKSHCKASKRVSDGETGESSVDSEKVQi
+rTRVIAQVLELGIIVHSVVIGISLGAS--QSPDAAKALFIALMFHQCFEGLGLGGCIAQGKFKCLSVT--
+--IMSTFFAITTPIGIVVGMGIANSYDESsqGVLNAASAGILIYMSLVDLLAADFThnTGLQIMAHIALL
+LGAGLMSLL--------
+>146:Q852F6 Zinc transporter 2 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP2 PE=2 SV=1 3 106 6e-24 1 35.1% 16.5% 318:499 167:353
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------EEGKLSSTNGNASDPPAADAAAQDHSVASMLra
+STLGDSVLLIAALCFHSVFEGIAIGVAET--KADAWKALWTISLHKIFAAIAMGIALLRMLPDRPFLS--
+CFGYAFAFAVSSPVGVGIGIVIDATTQGRVADWIFAvaTGIFIYVSINHLLSKGYtvAADTPAGRLLAVV
+LGVAVIAVV--------
+>147:Q9NP94 Zinc transporter ZIP2 OS=Homo sapiens OX=9606 GN=SLC39A2 PE=1 SV=2 3 105 7e-24 1 40.0% 17.8% 286:499 90:305
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----NSSGDADSAHMEYPYGELIISLglALQCCPGAAGGSTVQDEEWGGAHIFELHSHGHLPSPSKGPL
+RALVLLLSL----SFHSVFEGLAVGLQPTVAATVQL--CLAVLAHKGLVVFGVGMRLVHLGTS----SRW
+AVFSILLLALMSPLGLAVGLAVTGGDSEgaQAVLEGVAAGTFLYVTFLEILPRELASPEA-PLAKWSCVA
+AGFAFMAFI--------
+>148:Q5BL29 Zinc transporter ZIP9 OS=Danio rerio OX=7955 GN=slc39a9 PE=2 SV=1 3 104 1e-23 1 33.9% 21.8% 296:474 66:267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------MLEGVHNHGHGQVEAEVSEQKVAEGVVRPSGEHGHGHEQLHasAHMHSSDDPEAA
+RAASSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVLAMVTYVGLSQSstGVAMLFSAGTFLYVATVHVLPEV----------------
+-----------------
+>149:Q5RE57 Zinc transporter ZIP9 OS=Pongo abelii OX=9601 GN=SLC39A9 PE=2 SV=1 3 101 3e-23 1 31.8% 26.8% 332:499 55:235
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------VPEGVHALYEDILEDPEAA
+RSSNSKITTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLLVFALAA--PVMSMVTYLGLSKSstGVAMLFSAGTFLYVATVHVLPEvlDATGGRGllEVAALV
+LGCLIPLIL--------
+>150:A3BI11 Zinc transporter 8 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP8 PE=2 SV=1 3 104 3e-23 1 29.2% 19.5% 351:504 233:387
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+RHRVISQVLELGIVVHSVIIGISLGAS--QNPETIKPLVVALSFHQMFEGMGLGGCIVQAKFK----VRS
+IVTMVLFFCLTTPVGIAVGVGISSVYNESseGILNSVAAGILIYMALVDLLAEDFMNPRVQSKGKllGIN
+LAMLAGAGLMSMLA---
+>151:Q95JP5 Zinc transporter ZIP9 OS=Macaca fascicularis OX=9541 GN=SLC39A9 PE=2 SV=1 3 101 4e-23 1 28.2% 26.4% 327:474 44:194
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------TQCEDDEDENLYDDPLLLNNPEAA
+RSSNSKTTTTLGLVVHAAADGVALGAAASTSQtvQLIVFVAIMLHKAPAAFGLVSFLM-----HAGLERN
+RIRKHLlfSLAAPVMSMVTYLGLSKSSknATGMAMLFSAGTFLYVATVHVLPEV----------------
+-----------------
+>152:Q7XLD4 Zinc transporter 3 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP3 PE=1 SV=2 3 100 6e-22 1 29.0% 16.3% 347:499 203:360
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------AESI
+RHKVVSQVLELGILVHSVIIGVSLGASVR--PSTIRPLVGALSFHQFFEGVGLGGCIVQANFK----VRA
+TVIMAIFFSLTAPVGIVLGIAISSSYNVHSsgVFNSASAGILIYMSLVDLLATDFNnnTKLQLMAYLALF
+LGAGLMSML--------
+>153:Q9C9Z1 Putative zinc transporter At3g08650 OS=Arabidopsis thaliana OX=3702 GN=At3g08650 PE=2 SV=2 3 99 6e-21 1 31.6% 22.1% 332:503 179:340
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------LEQYGEVSMLDIKGADATK
+VVLVIGIMT-----LHSFGEGSGVGVSFAGSksQGLLVTLAIAVHNIPEGLAVSMVLASRGVS----PQN
+AMLWSIITSLPQPLVAVPAFLCADAFSKFL-PFCTGFAAGCMIWMVIAEVLPDAFKEASPSQVAS--AAT
+ISVASMEALSTLF----
+>154:Q38856 Fe(2+) transport protein 1 OS=Arabidopsis thaliana OX=3702 GN=IRT1 PE=1 SV=2 3 96.8 9e-21 1 29.2% 18.8% 342:495 181:335
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------DDSSNAQLL
+RYRVIAMVLELGIIVHSVVIGLSLGATSDTCTIKGLI--AALCFHQMFEGMGLGGCILQAEYTN----MK
+KFVMAFFFAVTTPFGIALGIALSTVYQDNSpgLLNACSAGLLIYMALVDLlaEFMGPKLQGSIKMQFKCL
+IAALL------------
+>155:A5D7H1 Zinc transporter ZIP13 OS=Bos taurus OX=9913 GN=SLC39A13 PE=2 SV=1 3 95.3 8e-20 1 24.5% 18.9% 317:448 171:303
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------DSKGKEETSQAPSKDPAAAAALNGGHYLAQPAAe
+nIKVSGYLNLLANTIDNFTHGLAVAASFLVSKKIGLLTTMAILLHEIPHEVGDFAILL-----RAGFDRW
+SAAKLQLS---TALGGLLgcFAICAQSP------------------------------------------
+-----------------
+>156:Q58442 Uncharacterized protein MJ1036 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1036 PE=4 SV=1 3 91.1 2e-19 1 24.9% 27.5% 354:495 101:226
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---RIKFIYPISFFIHTFIDGLIIAVSYIS--EIGLPLYLAILMHKLPAGFVLISPL-------KGVYKN
+PLYPGVFVSFGTVLGTIVGLVTLKDVS---TKILLAFSGGVFLG-AFLMLAPHIYEHKEEK---TFLYIL
+LGYIL------------
+>157:Q9PUB8 Zinc transporter Slc39a7 (Fragment) OS=Danio rerio OX=7955 GN=slc39a7 PE=2 SV=1 3 85.7 7e-17 1 19.5% 19.2% 310:408 254:352
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------PSAPKSKDSDEEDDKKGQKKGEKDKVVSQQKPTKKTVETSS
+DIKVSGYLNLAADFTHNFTDGLAIGASFLVGPAVGAVTTITILLHEVPHEIGDFAILV------------
+----------------------------------------------------------------------
+-----------------
+>158:Q12067 Metal homeostasis factor ATX2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ATX2 PE=1 SV=1 3 66.8 9e-11 1 18.3% 28.6% 359:456 160:252
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------VVFALFIHGLSDGIALG-TTTNNDSLLIVVLIAIVIHKIPAVLSLTSLMVSRQNL---MKWE
+VICNVFLFASSTPIGYIVLSLLNLSHSP-TMDWISG----------------------------------
+-----------------
+>159:Q9H2G4 Testis-specific Y-encoded-like protein 2 OS=Homo sapiens OX=9606 GN=TSPYL2 PE=1 SV=1 3 149 1e-37 1 31.4% 24.2% 89:278 446:615
+----------------------------------------------------------------------
+------------------TIHDIK-----ISDFMETTDYFETTDNEinICDSENPDHNEVPNNETTDNNE
+SADDHETTDNNESADDNNENPEDNNKNTDDNEENPNNN--------------------ENTYGNNFFKGG
+FWG------SHGNNQDSSDSDNEADEASDDEDNDGNEgdDDGNEGDNEGSDDDddIEYYEKVIEDFDK--
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>160:Q6L8G0 Zinc transporter 5 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP5 PE=2 SV=1 3 104 3e-23 1 34.3% 15.6% 320:499 165:349
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------DDLEASDEHSHGHAHGMSVMSVAPAGEEDLV
+RHRVISQVLELGVVVHSLIIGMSLGASDFPSTV--RPLVPALTFHQFFEGIGLGGCIVQAKFR----VRS
+VVTMALFFSLTTPAGIVVGIGISSVYDANsqGLLEAAAAGILVYMALVDILAEDfqRRGRLQLAMNVALL
+LGAGLMSMI--------
+>161:O23039 Zinc transporter 5 OS=Arabidopsis thaliana OX=3702 GN=ZIP5 PE=2 SV=1 3 104 4e-23 1 37.7% 14.7% 303:499 148:356
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------HKAHFKTSKRIGDGEEQdgGGGGDELGLHVHAHGHTHgeSGESQVQLH
+RTRVVAQVLEVGIIVHSVVIGISLGAS--QSPDTAKALFAALMFHQCFEGLGLGGCIAQGNFN----CMS
+ITIMSIFFSVTTPVGIAVGMAISSSYDDSsqGVLNAASAGILIYMSLVDFLAADFMHPKMqqIMAHISLL
+VGAGVMSLL--------
+>162:O81850 Fe(2+) transport protein 2 OS=Arabidopsis thaliana OX=3702 GN=IRT2 PE=1 SV=1 3 99.5 1e-21 1 35.3% 16.8% 315:499 157:346
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------DEEYGIDQEKAIHMVGHNHSHGHGVVLATKDDGQLL
+RYQVIAMVLEVGILFHSVVIGLSLGATNDSCTIKGLI--IALCFHHLFEGIGLGGCILQADFTN----VK
+KFLMAFFFTGTTPCGIFLGIALSSIYRDNSpgLLNACSAGMLIYMALVDLLasMLQGSIKLQIKCFTAAL
+LGCAVMSVV--------
+>163:Q6ZJ91 Zinc transporter 4 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP4 PE=2 SV=1 3 98.0 8e-21 1 31.4% 14.5% 335:499 223:392
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------PAAATSPEDASVAETI
+RHRVVSQVLELGILVHSVIIGVSLGASLR--PSSIRPLVGALSFHQFFEGIGLGGCIVQANFKA----KA
+TVIMATFFSLTAPVGIALGIAISSSyaLVVEGVFNSAAAGILIYMSLVDLLAADFNnnTKLQLAVYLALF
+LGAGMMSLL--------
+>164:Q8W245 Probable zinc transporter 10 OS=Arabidopsis thaliana OX=3702 GN=ZIP10 PE=1 SV=2 3 97.2 1e-20 1 37.5% 14.3% 304:499 154:360
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------SGRKDLRADVASVETPDQEIGHVQVHGHVHSHTLPHNLHGENDKELg
+rYRILAIVLELGIVVQSIVIGLSVGDTNNTCTIKGLV--AALCFHQMFEGMGLGGCILQAEYG----WVK
+KAVMAFFFAVTTPFGVVLGMALSKTYKENSpgLLNASSAGLLIYMALVDLLAADFMGQKMqqLKSYAAVL
+LGAGGMSVM--------
+>165:Q8S3W4 Probable zinc transporter 8 OS=Arabidopsis thaliana OX=3702 GN=ZIP8 PE=3 SV=1 3 94.1 7e-20 1 32.0% 16.1% 332:499 171:343
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------DHLPLTTKERSSTCSKQLL
+RYRVIATVLELGIIVHSVVIGLSLGATNDTCTIKGLI--AALCFHQMFEGMGLGGCILQAEYTN----VK
+KFVMAFFFAVTTPSGIALGIALSSVYKDNSpgLLNACSAGLLIYMALVDLLAamLQRSVKLQLNCFGAAL
+LGCGGMSVL--------
+>166:O04089 Zinc transporter 4, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ZIP4 PE=2 SV=1 3 94.1 1e-19 1 29.8% 19.1% 343:499 209:370
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------------NSDVENGA
+RHVVVSQILELGIVSHSIIIGLSLGVS--QSPCTIRPLIAALSFHQFFEGFALGGCISQAQFRN----KS
+ATIMACFFALTTPLGIGIGTAVASSFNSHSPGALvsLSAGILVYMALVDLIakRMSCNLRLQVVSYVMLF
+LGAGLMSAL--------
+>167:Q8LE59 Fe(2+) transport protein 3, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=IRT3 PE=2 SV=3 3 94.1 2e-19 1 28.8% 17.1% 348:499 265:421
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------------NGA
+RHIVVSQVLELGIVSHSIIIGLSLGVS--QSPCTIRPLIAALSFHQFFEGFALGGCISQAQFRN----KS
+ATIMACFFALTTPIGIGIGTAVASSFNSHSVGALvsLSAGILVYMALVDLIAADFLSTKMrqIVSYVMLF
+LGAGLMSSL--------
+>168:Q8W246 Zinc transporter 7 OS=Arabidopsis thaliana OX=3702 GN=ZIP7 PE=2 SV=1 3 93.0 2e-19 1 34.7% 13.7% 318:499 170:358
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------ENGSNSVDTQNDIQTLENGSSYVEKQEKVNEDk
+rNKVIAQILELGIVVHSVVIGLAMGASDNKCTVQ--SLIAALCFHQLFEGMGLGGSILQAQFK----SKT
+NWTMVFFFSVTTPFGIVLGMAitSPTALIVVGVLNACSAGLLIYMALVNLLAHEfpKIQGNIKLHVLGYV
+ATFTGAAGM--------
+>169:Q9LTH9 Zinc transporter 2 OS=Arabidopsis thaliana OX=3702 GN=ZIP2 PE=2 SV=1 3 92.6 3e-19 1 37.1% 16.2% 303:499 154:349
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------GSNNNHVGASVGESREDDDVAVKEEGRREIK-----SGVDVSQALIRT
+SGFGDTALLIFALCFHSIFEGIAIGLSDTKSD--AWRNLWTISLHKVFAAVAMGIALLKLIPKRPFFL--
+TVVYSFAFGISSPIGVGIGIGINATSQGAGGDWtmGLACGVFVYVAVNHLISKGYKPRedKPIYKFIAVF
+LGVALLSVV--------
+>170:Q6L8G1 Fe(2+) transport protein 2 OS=Oryza sativa subsp. japonica OX=39947 GN=IRT2 PE=2 SV=1 3 92.6 4e-19 1 39.1% 14.6% 287:499 158:366
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------SKGRASSAVAHHGDHGHCHAHALGQA--DVAALSTTEAADQGSGDVEAG-------NTTKAQLL
+RNRVIVQVLEMGIVVHSVVIGLGMGAS--QNVCTIRPLVAALCFHQMFEGMGLGGCILQAGY--GGRTRS
+ALV--FFFSTTTPFGIALGLALTRVYSDSSpgLLNAASAGLLHYMALVELLAAdlQGNVRLQLAASLAIL
+LGAGGMSVM--------
+>171:O82643 Zinc transporter 9 OS=Arabidopsis thaliana OX=3702 GN=ZIP9 PE=2 SV=1 3 91.8 5e-19 1 27.6% 16.4% 354:499 190:340
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---VVSQILEMGIVSHSIIIGISLGVS--HSPCTIRPLLLALSFHQFFEGFALGGCVAEARLTPRGS---
+-AMMAFFFAITTPIGVAVGTAIASSYNSYSVAALValSAGILVYMALVDLIAADFLSKKMsqVVSYCFLF
+LGAGMMSAL--------
+>172:Q5Z653 Zinc transporter 10 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP10 PE=3 SV=2 3 91.1 2e-18 1 32.3% 13.5% 325:494 221:392
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------GACHGGAVNDAHAHGHGHGHEEGPSA
+RHVVVSQILELGIVSHSVIIGLSLGVS--QSPCTIKPLVAALSFHQFFEGFALGGCISEAQLKN----FS
+AFLMAFFFAITTPAGITVGAAVASFYNPNseGILDSMSAGILIYMALVDLIAADFLSRKmnPRLQVGSYI
+ALFL-------------
+>173:O64738 Zinc transporter 6, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ZIP6 PE=3 SV=1 3 88.7 5e-18 1 30.0% 17.7% 342:499 168:337
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------------------------NSEEEIVKM
+KQRLVSQVLEIGIIFHSVIIGVTMGMS--QNKCTIRPLIAALSFHQIFEGLGLGGCIAQAGFKAG----T
+VVYMCLMFAVTTPLGIVLGMVIFAAtaLIMEGLLGSFSSGILIYMALVDLIALDFFHnsRLKKLCFVALV
+LGSASMSLL--------
+>174:Q6L8F9 Zinc transporter 6 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP6 PE=2 SV=1 3 88.0 1e-17 1 33.7% 14.7% 323:499 207:391
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------PRVGCHGHHDVVEVGEEGGGGEEEEARR
+KQKMVSKVLEIGIVFHSVIIGVTMGMSQDVCAI--RPLVVALSFHQVFEGMGLGGCIAQAGFGIA----T
+VGYMCVMFSVTTPLGILLGMAIfsPNALIIEGLLGSLSSGILVYMALVDLIskMMSSSNKLKKVSYVALV
+LGSASMSIL--------
+>175:Q75HB1 Fe(2+) transport protein 1 OS=Oryza sativa subsp. japonica OX=39947 GN=IRT1 PE=2 SV=1 3 87.6 2e-17 1 30.6% 14.9% 339:499 205:370
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------PDDVEATQVQLR
+RNRVVVQVLEIGIVVHSVVIGLGMGAS--QNVCTIRPLVAAMCFHQMFEGMGLGGCILQAEYGR----RM
+RSVLVFFFSTTTPFGIALGLALTRVYRDNSpgLLNAASAGLLHYMALVELLAAdlQGNVRLQLAAFLAVL
+LGAGGMSVM--------
+>176:Q0DHE3 Zinc transporter 9 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP9 PE=3 SV=3 3 82.2 1e-15 1 23.7% 21.0% 376:499 228:358
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------LGASESPSTIRPLVAALTFHQFFEGIGLGGCIVQARFH----LKS
+AVTMAIFFSLTTPVGIMIGIGISSAYNENseGILDAAAAGILNYMALVDLLAEDFMNPRVRKsiISILLL
+VGIALMSLL--------
+>177:Q6L8F7 Zinc transporter 7 OS=Oryza sativa subsp. japonica OX=39947 GN=ZIP7 PE=2 SV=1 3 81.0 3e-15 1 29.0% 15.0% 347:499 223:380
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------------------PAQV
+RSVVVSQILEMGIVSHSVIIGLSLGVS--RSPCTIRPLVAALSFHQFFEGFALGGCIAQAQFK----TLS
+AAIMACFFAITTPAGIAAGAGVASFYNANseGILDSVSAGILIYMSLVDLIAADftGSTRQQVMAYIALF
+LGALSMSSL--------
+>178:Q12436 Zinc-regulated transporter 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ZRT2 PE=1 SV=1 3 79.5 1e-14 1 58.8% 14.4% 188:499 100:418
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------YPWAFGICLMSLFLLFFTEIITH
+YFVAKTLGHDHGDHGEVTSIDVDAP-SSGFVIRNM-DSDPVSFNNEAAYSIHNDKTPYTTRN-------E
+EIVATPIKEKEPGSNVTNYDLEPGKTESLANELVPTSSHATNLASVPGKDHYSHENDHQDVSQLATRIEE
+EDklAVFILEFGIIFHSVFVGLSLSVAGEEFET----LFIVLTFHQMFEGLGLGTRVAETNWPESKKYM-
+PWLMGLAFTLTSPIAVAVGIGVRHSWIPGSRRALIaiSSGILIYTGLVELMAHEFLYSNqkMLSAYLIMC
+CGAALMALL--------
+>179:O94639 Zinc-regulated transporter 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=zrt1 PE=1 SV=1 3 73.3 1e-12 1 40.2% 12.9% 291:499 184:404
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------QHSHSHEDghGVHEHPVYDIEECADGVEHECVKDDLEEVKLEPYTNTDSTDLTTKEEARS
+FLLKQQLTAFisIILHSVIIGLTTAVSGEEFKT----LFPVIIFHQAFEGCGLGSRLAGMAWG-PKTAWV
+PWVLGVIYSLVTPIGMAAGLGvlAHGSYAAQGVLDAISSGILVYAGLVELLAhlFSPERERNWYKLIYLl
+aGTGVMALL--------
+>180:Q7TQI8 Testis-specific Y-encoded-like protein 2 OS=Mus musculus OX=10090 GN=Tspyl2 PE=1 SV=1 3 69.1 4e-11 1 17.9% 25.0% 85:180 439:535
+----------------------------------------------------------------------
+--------------TDNETIHDIK-----ISDFMETTDYFETTDNEvnLCDSENPDHSEGYNTKITDNKG
+SVAAndDNSDDPEEKNTYDSEDSNSEKADGDNTTLRDNQQ------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>181:P32804 Zinc-regulated transporter 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ZRT1 PE=1 SV=1 3 65.6 3e-10 1 39.8% 10.1% 293:499 156:372
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------GLSHDHTHDEIKDTVVRNTAAVSSENDNENGTANGSHDTKNGVEYYEDSDATSMDVVQ
+SFQAQFyiLEFGVIFHSVMIGLNLG-SVGDEFSSLYPVLV---FHQSFEGLGIGARLSAIEFPRSK-RWW
+PWALCVAYGLTTPICVAIGLGVRTRyaLVISGVLDAISAGILLYTGLVELLARDFIFNPQRTkfNVICTL
+FGAGIMALI--------
+>182:Q54G14 Uncharacterized protein DDB_G0290685 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0290685 PE=2 SV=2 3 56.8 4e-07 1 46.0% 16.5% 104:351 764:996
+----------------------------------------------------------------------
+---------------------------------EDNQDGGENNQGDENNQDVDENNQDGENNQDGDENNQ
+DGENNQDGENNQDGDENNNQDGEQNQDGDENNQDGGENNQDGDE---------------NNNQDGDENNN
+QDGGENNQDGGENNQDGDENNNQDGGENNQDGENNQDGDENNNQDGEQNQDGDENNQEGDENNNQGDDEN
+NNQDGDENNNQDGDENNQDGDENNQDGDENNQGNDENNQDGDQNNQGGDENNQDGDGENNQGDENNQDGG
+E---------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>183:Q52KV5 RNA polymerase-associated protein LEO1 OS=Xenopus laevis OX=8355 GN=leo1 PE=2 SV=1 3 50.6 3e-05 1 44.0% 18.5% 131:357 88:324
+----------------------------------------------------------------------
+------------------------------------------------------------NASETAHSDQ
+EVNDQSDAEQHSGSEALHDEDNDEDVGQRSDHSSPRSekDANSDDEKWGREDKSDQSDEEEKMQNSDdqH
+SDRDEHRQSDEEGQRPSSDAEEQETHQSDDEEQDNHHSDddDEENDqnDRPHSDGEE--QDHRQSEDEEN
+ELQHSDDEQERQRSDDERQRSDDEINEHRQSDDEDRQHSD--GDNVRHHSDDEHKSESQKGSDSEEEIGR
+QRRKKAI---------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>184:Q7Z2Y5 Nik-related protein kinase OS=Homo sapiens OX=9606 GN=NRK PE=1 SV=2 3 50.6 3e-05 1 43.6% 18.1% 132:357 939:1168
+----------------------------------------------------------------------
+-------------------------------------------------------------NDTFEDTYD
+HANGNDDLDNQVDQANdkDHDDDNNKFVDD----VNNNYYEAPSCpsYGRDGSCKQDGYDGSRGKEEAYR
+GYGSHTANRSHGGSAASEDNAAIGDqaNIGSERRGSEGDGGKGVVRTSEESGALGLNGEEnsETDGPGLK
+RPASQDFEYLQEEPGGGNEASNAIDSGAAPSAP-DHESDNKDISESSTQSDFSANHSSPSKGSGMSADAN
+FASAILY---------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>185:Q18DN4 Halomucin OS=Haloquadratum walsbyi (strain DSM 16790 / HBSQ001) OX=362976 GN=hmu PE=3 SV=1 3 50.6 4e-05 1 39.4% 18.5% 82:292 8335:8535
+----------------------------------------------------------------------
+-----------KSSERNLTVEDVDGGISvvSNISYSASYVDIKADSTAPVPESALEDDSSNQDSGDDSSN
+QDSGDDSSSQNDDGDNSSNQDSGDDSSSQNDDGDNSSNQDS-----------GDDSSSQNDDGDNSSNQD
+SGDDSSSQNDDGDDSSSQNDDGDNSSNQDSGDDSSSQNDDGDNSSNQDSGDDSSSQNDDGDNSSNQDSGD
+DSSSQNDDGDNK----------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>186:P36046 Mitochondrial intermembrane space import and assembly protein 40 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MIA40 PE=1 SV=2 3 47.9 1e-04 1 36.5% 17.1% 124:339 65:249
+----------------------------------------------------------------------
+-----------------------------------------------------APNRKPLFASRKVESDK
+TAEEELSSGGEQSPENEDDNNSKSDENGDDNDSKNDETEAGPQL------------------------GG
+DKIGASKVAEDGELVVLAEEDNKSSEDKDTDESKVSTKDDEQSNEDNATANNQK-----DENISSENSEE
+NTS--DKTLDNNAGSSEKKDPEHSDDEKSQQGQSDDKTTTEDNNGEEESSKKTVSDSEN-----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>187:P29362 Latent membrane protein 1 OS=Epstein-Barr virus (strain Cao) OX=31525 GN=LMP1 PE=3 SV=1 3 46.4 5e-04 1 37.3% 16.7% 150:359 193:382
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------DEHHHDDSLPHPQQATDDSSHESDSNSNEGRHHLLVSGAGDG----------PPLCSQNLG
+APGGGPDNGP----QDPDNTDDNGPQDPDNTDDNGPQDPDNTDDNGPQDPDNTD-----DNGPQDPDNTD
+DNGPQddNTDDNGPQDPDNTDDNGPHDPLPHSPSDSAGNDGGPPNLT--EEVANKGGDRGPPSMTDGGGG
+DPHLPTLLL-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>188:Q5XJE5 RNA polymerase-associated protein LEO1 OS=Mus musculus OX=10090 GN=Leo1 PE=1 SV=2 3 46.0 8e-04 1 45.4% 15.6% 101:337 45:278
+----------------------------------------------------------------------
+------------------------------SDQDDRGDSGQPSNKELFGDDSEE---EGASHHSGSDNHS
+ERSDNRSEASERSDHEDNEPSDEDQHSGSEAHNDDDDEGHRSDEGSRHSEAEGSEKAQSDDEKWDGEDK-
+---SDQSDDEKLQNSDDEDREQGSDEDKLQNSDDDEEKMQNTDDEDRAQISDDDRQQLSEEEKGNSDdaS
+DNDEEKQNSDDEDQPQVSDEEKMQNSDDERPQVSDEDGRRSDGEEEQDQKSESARGS-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>189:O94248 Midasin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mdn1 PE=1 SV=1 3 46.0 8e-04 1 55.0% 16.1% 67:352 3939:4223
+------------------------------------------------------------------EEDT
+ANQSDLDESEARELESDMN-GVTKDSVVSENENSDSEEENQDLDEEVNDIP-EDLS-NSLNEKLWDEPNE
+EDLLETEQKSNEQSAANNESDLVSKE--DDNKALEDKDRQEKEDEEEMSDDVGIDDEIQPDIQENNSQPP
+PENEDHLDLPEDLKLDEKEGDVSKD--SDLEDMDMEAADENKEEADAEKDEPMQDFelEENNTLDedDFS
+DLAEDDEKMNEDGFEENVQENEESTEDGVKSDEELEQGEVPEDQAIDNHPKMDAKSTFASAEADEENTDK
+GI--------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>190:Q6DE96 Protein IWS1 homolog A OS=Xenopus laevis OX=8355 GN=iws1-a PE=2 SV=1 3 46.0 8e-04 1 43.6% 15.7% 121:355 4:245
+----------------------------------------------------------------------
+--------------------------------------------------DNYSPEHSDDGGATPvdERD
+SASDDEGNEqeHQSEDEhdHKHSSDSGSDNEkeHDSEDEHRPRN---------SSDLENHDASDSENEES
+HNRIASDSEDDGRRQKNSDSDrvKGAASDSDEEPVRHSASDSEDdqANDSEDERHIKKT-----ASDSED
+EAPAKHRVSDTEDKAPPKQVASDSEDEASPKQVASDSKDEAPPKHAASDSEDEAPPKLAGSDSEDEAPAK
+RKVSS-----------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
+>191:Q95WA4 Spore wall protein 2 OS=Encephalitozoon intestinalis OX=58839 GN=SWP2 PE=1 SV=1 3 45.6 0.001 1 53.5% 17.0% 66:336 291:564
+-----------------------------------------------------------------FTRFY
+TTQTSNLQTSVQNSSKTLTSELKKLATDTETAFTAFAneISTPVRRIFRRSITSSGFEDAEEGEDKDNTG
+EGEEGEDKDNTGEGeeDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTG
+EGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDN
+TGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGEDKDNTGEGEEGE--------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------
