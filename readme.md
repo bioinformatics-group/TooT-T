@@ -6,8 +6,12 @@ Output: the predicted class,1=transporter, 0=non-transporter
 
 
 The method used in this tool is described in:
+
+
 <a id="1">[1]</a> 
 Alballa, Munira, and Gregory Butler. "TooT-T: discrimination of transport proteins from non-transport proteins." BMC bioinformatics 21 (2020): 1-10
+
+
 
 However, it was trained with updated dataset retrieved from the Swiss-Port database as follows:
 Protein sequences that belong to the transporter class were retrieved using the following search query:
