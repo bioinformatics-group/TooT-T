@@ -9,10 +9,20 @@ The method used in this tool is described in:
 <a id="1">[1]</a> 
 Alballa, Munira, and Gregory Butler. "TooT-T: discrimination of transport proteins from non-transport proteins." BMC bioinformatics 21 (2020): 1-10
 
-However, it was trained with updated dataset retrieved from the Swiss-Port database as follows:Protein sequences that belong to the transporter class were retrieved using the following search query:This query searches for proteins that have the GO:0005215 transporter activity GO MF annotation. 
+However, it was trained with updated dataset retrieved from the Swiss-Port database as follows:
+Protein sequences that belong to the transporter class were retrieved using the following search query:
+This query searches for proteins that have the GO:0005215 transporter activity GO MF annotation. 
 
 This GO MF was chosen here because it is directly related to the actual function of the protein rather than the general process in which it is involved.
-Protein sequences that do not belong to the transporter class but are located in themembrane were retrieved as non-transporters using the following search query:The initial set was then filtered to attain the best-quality dataset by adhering to the following criteria:-`Step 1:` Protein sequences that have evidence ?inferred from homology? for the existence of a protein were removed.-`Step 2:` Protein sequences that are annotated with multiple functions (e.g., transporters and enzymes) were removed.- `Step 3:` Protein sequences that have no GO MF annotation or annotation based only on computational evidence (IEA) were eliminated.- `Step 4:` Protein sequences with more than 60\% pairwise sequence identity were removed via the CD-HIT  program to avoid any homology bias.
+
+Protein sequences that do not belong to the transporter class but are located in the
+membrane were retrieved as non-transporters using the following search query:
+The initial set was then filtered to attain the best-quality dataset by adhering to the following criteria:
+
+- `Step 1:` Protein sequences that have evidence ?inferred from homology? for the existence of a protein were removed.
+- `Step 2:` Protein sequences that are annotated with multiple functions (e.g., transporters and enzymes) were removed.
+- `Step 3:` Protein sequences that have no GO MF annotation or annotation based only on computational evidence (IEA) were eliminated.
+- `Step 4:` Protein sequences with more than 60\% pairwise sequence identity were removed via the CD-HIT  program to avoid any homology bias.
 
 
 
