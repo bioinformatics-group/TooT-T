@@ -33,11 +33,6 @@ The initial set was then filtered to attain the best-quality dataset by adhering
 ## FOLDERS
 There are a number of folders that support the running of TooT-T and its outputs.
 
-### dataset/transporter_substrate_class
-Contains both the training and the independent testing dataset if fasta format, the identifiers of independent testset is found under substrate_classes_indep.csv.
-The models were trained using the training dataset =(all dataset - independent testset)
-
-
 
 ### intermediate_files
 Contains the homology details needed to extract the features. Details of the  `psi Blast hits` for each sequence is found here.
