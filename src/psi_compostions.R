@@ -41,14 +41,13 @@ blastpSeq<- function(seq, start.pos = 1L, end.pos = nchar(seq),
   cmdblastp = paste(
     paste0(shQuote(blastp.path),
            ' -comp_based_stats 1 -db ', shQuote(database.path),
-           ' -query ', shQuote(seq),  ' -outfmt \"6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovs\"  -num_alignments 1',' -out ', paste0(shQuote(output.path),"out.txt")))
+           ' -query ', shQuote(seq),  ' -outfmt \"6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovs\"  -num_alignments 1',' -out ', paste0(output.path,"out.txt")))
   
   print("******************************")
   print(cmdblastp)
   if (silent == TRUE) system(cmdblastp, ignore.stdout = F) else system(cmdblastp)      
   #get the hit sequences Id
   data = read.table(paste0(output.path,"out.txt"))
- 
   
 }
 
@@ -234,7 +233,7 @@ ClaculateCompostions<- function(subdirName, filename)
 
 
 
-#MviewPath = "~/mview-1.64/bin/./mview"
+MviewPath = "/usr/local/bin/mview"
 ClaculateEachCompostions<- function(seq, output.path)
 {
   subdirName= paste0(intermediateFiles,names(seq),"/")

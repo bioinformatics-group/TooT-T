@@ -30,13 +30,12 @@ getpredictionsATH<- function(fastafile)
 {
   # perform blast against TCDB with different threasholds: TCDB_Exact, TCDB_High, TCDB_Med
   querySeq=fastafile
-  tcdbpath=paste0(dbpath,"TCDB.fasta")
-  blastpSeq(seq=fastafile, database.path=tcdbpath,output.path= paste0(intermediateFiles,"/"))
+  tcdbpath=paste0(dbpath,"/TCDB.fasta")
+  blastpSeq(seq=fastafile, database.path=tcdbpath,output.path=intermediateFiles)
 
-  results<-read.table(paste0(output.path,"out.txt"))
+  results<-read.table(paste0(intermediateFiles,"out.txt"))
   colnames(results)<- c("qseqid","sseqid","pident", "length","mismatch","gapopen","qstart","qend","sstart","send","evalue","bitscore","qcovs")
   results$qseqid= sub(".+?\\.","", results$qseqid)
-
   tcdbseq<- read.fasta(tcdbpath,seqtype = "AA",as.string=T)
   tcdbnames<-sub("\\|.*","",sub(".+?\\|","",names(tcdbseq)))
   tcdblengths<- nchar(tcdbseq)
@@ -57,8 +56,9 @@ getpredictionsATH<- function(fastafile)
     len<- unname(tcdblengths[which(tcdbnames==results$sseqid[i])])
     Slen<-c(Slen,len)
   }
+
   results2<- cbind(results, Querylength=Qlen, Slength=Slen, diffPer= (abs(Qlen-Slen)/Qlen) )
-  
+
   HighThreasholdIDS<-results$qseqid[which((results$pident>=40 )& (results$evalue<= 1e-20) &(results$qcovs >= 70) & (results2$diffPer <= .1)) ]
   ExactMatchesID<- results$qseqid[which(results$pident==100.00 & results$evalue==0)]
   MedIDs<-results$qseqid[which(results$evalue<=1e-8 )]
@@ -194,16 +194,14 @@ if(!terminate) {
   compostions=paste0(TooTTdir,"/intermediate_files/Compositions/")
   intermediateFiles=paste0(TooTTdir,"/intermediate_files/")
 
-  
-  
   #testing data with unknown substrates
-  source(paste0(TooTTdir,"src/psi_compostions.R"))
+  source(paste0(TooTTdir,"/src/psi_compostions.R"))
   
   psi_compostions(test_fasta)
   ATH<-getpredictionsATH(test_fasta)
   ML<-getpredictions_psibasedmodels(test_fasta)
   #meta takes following order:
- #("tcdb_exact","tcdb_high","tcdb_med", "psiAAC", "psiPAAC", "psiPseAAC")
+  #("tcdb_exact","tcdb_high","tcdb_med", "psiAAC", "psiPAAC", "psiPseAAC")
   predictions<- get_gbm_ensemble(cbind.data.frame(ATH,ML))
   
   
