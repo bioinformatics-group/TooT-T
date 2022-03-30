@@ -40,9 +40,9 @@ getpredictionsATH<- function(fastafile)
   tcdbnames<-sub("\\|.*","",sub(".+?\\|","",names(tcdbseq)))
   tcdblengths<- nchar(tcdbseq)
   QuerySeq= read.fasta(querySeq,seqtype = "AA",as.string=T)
-  Quernames<-sub(".+?\\.","",sub("\\|.*","",sub(".+?\\|","",names(QuerySeq))))
+  Quernames<-names(QuerySeq)
   Qlengths<- nchar(QuerySeq)
-  
+
   Qlen<- c()
   Slen<- c()
   for(i in 1:length(results[,1]))
@@ -60,11 +60,10 @@ getpredictionsATH<- function(fastafile)
   results2<- cbind(results, Querylength=Qlen, Slength=Slen, diffPer= (abs(Qlen-Slen)/Qlen) )
 
   HighThreasholdIDS<-results$qseqid[which((results$pident>=40 )& (results$evalue<= 1e-20) &(results$qcovs >= 70) & (results2$diffPer <= .1)) ]
-  ExactMatchesID<- results$qseqid[which(results$pident==100.00 & results$evalue==0)]
+  ExactMatchesID<- results$qseqid[which(results$pident==100.00 & results$evalue<0.000000000000001)]
   MedIDs<-results$qseqid[which(results$evalue<=1e-8 )]
   
   seqs<- readFASTA(test_fasta)
-  names(seqs)<- sub("\\|.*","",sub(".+?\\|","", names(seqs)))
   ATH_predictions<- matrix(data=0,nrow=length(names(seqs)), ncol=3)
   row.names(ATH_predictions)<-names(seqs)
  
@@ -98,8 +97,9 @@ getpredictions_psibasedmodels<-function(fastafile)
     testpredictors<- normalize(testpredictors)
     load( paste0(TooTTdir,"/models/",Texnames[z],"_TvdNT.rda"))
     colnames(testpredictors)<- attr(svm.fit$terms, "term.labels")
+    row.names(testpredictors)<-names(seqs)
     p1<- predict(svm.fit,testpredictors,probability=TRUE)
-    psi_predictions[,z]<- as.vector(p1)
+    psi_predictions[rownames(attr(p1,"probabilities")),z]<- as.vector(p1)
   }
   
   return(psi_predictions)

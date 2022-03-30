@@ -42,6 +42,8 @@ intermediate_files/Compositions: Contains the extracted `psi_composition` featur
 ### db
 Contains the database to be used when performing psiBLAST as well as TCDB for ATH predictions.
 
+By default, if you unzip the contents of [this](https://tootsuite.encs.concordia.ca/databases/Toot-T-db.tar.gz) into a `db` folder adjacent to the source folder, it should be in the default location (or specify it manually).
+
 
 ### src
 The scripts needed to use the tool.
