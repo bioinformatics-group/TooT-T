@@ -191,7 +191,7 @@ if(!terminate) {
     dbpath <- paste0(TooTTdir, db)
   }
   
-  compostions=paste0(TooTTdir,"/intermediate_files/Compositions/")
+  compostions=paste0(TooTTdir,"/Compositions/")
   intermediateFiles=paste0(TooTTdir,"/intermediate_files/")
 
   #testing data with unknown substrates

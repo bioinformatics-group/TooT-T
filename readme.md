@@ -34,10 +34,10 @@ The initial set was then filtered to attain the best-quality dataset by adhering
 There are a number of folders that support the running of TooT-T and its outputs.
 
 
-### intermediate_files
-Contains the homology details needed to extract the features. Details of the  `psi Blast hits` for each sequence is found here.
+### intermediate_files and Compositions
+`intermediate_files` contains the homology details needed to extract the features. Details of the `psi Blast hits` for each sequence are found here.
 
-intermediate_files/Compositions: Contains the extracted `psi_composition` features of test set
+`Compositions` Contains the extracted `psi_composition` features of the test set
 
 ### db
 Contains the database to be used when performing psiBLAST as well as TCDB for ATH predictions.
@@ -51,10 +51,10 @@ The scripts needed to use the tool.
 ## HOW TO USE
  - This tool requires that `BLAST` be pre-installed
  -This tool requires that M-View to  be pre-installed (link https://desmid.github.io/mview/)
- - Usage: `Rscript src/TooT_T.R -query=<input> [-TooTT=<TooTTdir>] [-out=<outdir>] [-db=<path to dbs>]`
+ - Usage: `src/TooT_T.R -query=<input> [-TooTT=<TooTTdir>] [-out=<outdir>] [-db=<path to dbs>]`
   - `<input>` is your sequence input file in fasta format
   - `<out>` is the output directory where you want the predicted 	results, formatted as csv
   - `<TooTTdir>` is the directory where the base TooT-T files 	are located
   - `<db> is the directory where the databases (for psi-compositions) is stored in addition to TCDB for ATH predictions`
- - `psi-compositions` features of each sequence in the test set is  found under [intermediate_files/Compositions/](intermediate_files/Compositions/)
+ - `psi-compositions` features of each sequence in the test set is  found under [Compositions/](Compositions/)
 
