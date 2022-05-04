@@ -48,7 +48,7 @@ The scripts needed to use the tool.
 ## HOW TO USE
  - This tool requires that `BLAST` be pre-installed
  - This tool requires that M-View be pre-installed (link https://desmid.github.io/mview/)
- - Usage: `src/TooT_TTool.R -query=<input> [-out=<outdir>] [-db=<path to db>] [-work=<Workdir>] [-TooTR=<TooTTdir>]`
+ - Usage: `src/TooT_T.R -query=<input> [-out=<outdir>] [-db=<path to db>] [-work=<Workdir>] [-TooTR=<TooTTdir>]`
   - `<input>` is your sequence input file in fasta format
   - `<out>` is the output directory where you want the predicted 	results, formatted as csv
   - `<db> is the directory where the database (for psi-compositions) is stored in addition to TCDB for ATH predictions`
