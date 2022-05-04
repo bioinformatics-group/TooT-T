@@ -43,7 +43,6 @@ normalize<- function(matrix){
 
 getpredictionsATH<- function(fastafile) {
   # perform blast against TCDB with different threasholds: TCDB_Exact, TCDB_High, TCDB_Med
-  querySeq=fastafile
   blastpSeq(seq=fastafile, output.path=intermediateFiles)
 
   results<-read.table(file.path(intermediateFiles,"out.txt"))
@@ -52,15 +51,15 @@ getpredictionsATH<- function(fastafile) {
   tcdbseq<- read.fasta(tcdb,seqtype = "AA",as.string=T)
   tcdbnames<-sub("\\|.*","",sub(".+?\\|","",names(tcdbseq)))
   tcdblengths<- nchar(tcdbseq)
-  QuerySeq= read.fasta(querySeq,seqtype = "AA",as.string=T)
-  Quernames<-names(QuerySeq)
-  Qlengths<- nchar(QuerySeq)
+  currentSeqs= read.fasta(fastafile, seqtype = "AA",as.string=T)
+  qNames<-names(currentSeqs)
+  qLengths<- nchar(currentSeqs)
 
   Qlen<- c()
   Slen<- c()
   for(i in 1:length(results[,1])) {
     #query length
-    leng<- unname(Qlengths[which(Quernames==results$qseqid[i])])
+    leng<- unname(qLengths[which(qNames==results$qseqid[i])])
     if(length(leng)==0)
       print(results$qseqid[i])
     Qlen<-c(Qlen,leng)
@@ -75,13 +74,13 @@ getpredictionsATH<- function(fastafile) {
   ExactMatchesID<- results$qseqid[which(results$pident==100.00 & results$evalue<0.000000000000001)]
   MedIDs<-results$qseqid[which(results$evalue<=1e-8 )]
   
-  seqs<- readFASTA(query)
-  ATH_predictions<- matrix(data=0,nrow=length(names(seqs)), ncol=3)
-  row.names(ATH_predictions)<-names(seqs)
+  currentSeqs<- readFASTA(fastafile)
+  ATH_predictions<- matrix(data=0,nrow=length(names(currentSeqs)), ncol=3)
+  row.names(ATH_predictions)<-names(currentSeqs)
  
-  ATH_predictions[which( names(seqs) %in% ExactMatchesID),1]<- 1
-  ATH_predictions[which( names(seqs) %in% HighThreasholdIDS),2]<- 1
-  ATH_predictions[which( names(seqs) %in% MedIDs),3]<- 1
+  ATH_predictions[which( names(currentSeqs) %in% ExactMatchesID),1]<- 1
+  ATH_predictions[which( names(currentSeqs) %in% HighThreasholdIDS),2]<- 1
+  ATH_predictions[which( names(currentSeqs) %in% MedIDs),3]<- 1
   
   return(ATH_predictions)
        
@@ -93,10 +92,10 @@ getpredictions_psibasedmodels<-function(fastafile) {
   files<- c("MSAAACpsi3.csv","MSADCpsi3.csv","MSAPAACpsi3.csv")
   Texnames<-  c("psiAAC","psiPAAC","psiPseAAC")
   
-  seqs<- readFASTA(fastafile)
-  names(seqs)<- sub("\\|.*","",sub(".+?\\|","", names(seqs)))
-  psi_predictions<- matrix(data=0,nrow=length(names(seqs)), ncol=3)
-  row.names(psi_predictions)<-names(seqs)
+  currentSeqs<- readFASTA(fastafile)
+  names(currentSeqs)<- sub("\\|.*","",sub(".+?\\|","", names(currentSeqs)))
+  psi_predictions<- matrix(data=0,nrow=length(names(currentSeqs)), ncol=3)
+  row.names(psi_predictions)<-names(currentSeqs)
   
   for(z in 1:length(files)) {
     t1=read.csv(file.path(compositions, files[z]), header = TRUE,sep=",", stringsAsFactors = FALSE)
@@ -106,7 +105,7 @@ getpredictions_psibasedmodels<-function(fastafile) {
     currentTvdNT <- file.path(TooTTdir, "models", paste0(Texnames[z], "_TvdNT.rda"))
     load(currentTvdNT)
     colnames(testpredictors)<- attr(svm.fit$terms, "term.labels")
-    row.names(testpredictors)<-names(seqs)
+    row.names(testpredictors)<-names(currentSeqs)
     p1<- predict(svm.fit,testpredictors,probability=TRUE)
     psi_predictions[rownames(attr(p1,"probabilities")),z]<- as.vector(p1)
   }
@@ -141,7 +140,7 @@ for(i in args){
   
   switch(arg[1],
          "-query"={
-           query <- normalizePath(arg[2])
+           toottquery <- normalizePath(arg[2])
          },
          "-out"={
            out <- normalizePath(arg[2])
@@ -176,12 +175,12 @@ for(i in args){
 
 if(!terminate) {
   
-  if(!exists("query")) {
+  if(!exists("toottquery")) {
     stop("-query has not been passed")
   }
 
-  if(!file.exists(query)) {
-    stop("The specified query file does not exist: '", query,"'", sep="")
+  if(!file.exists(toottquery)) {
+    stop("The specified query file does not exist: '", toottquery,"'", sep="")
   }
 
 #
@@ -273,17 +272,17 @@ if(!file.exists(psi_compositionsSource)) {
   #testing data with unknown substrates
   source(psi_compositionsSource)
   
-  psi_compositions(query)
-  ATH<-getpredictionsATH(query)
-  ML<-getpredictions_psibasedmodels(query)
+  psi_compositions(toottquery)
+  ATH<-getpredictionsATH(toottquery)
+  ML<-getpredictions_psibasedmodels(toottquery)
   #meta takes following order:
   #("tcdb_exact","tcdb_high","tcdb_med", "psiAAC", "psiPAAC", "psiPseAAC")
   predictions<- get_gbm_ensemble(cbind.data.frame(ATH,ML))
   
   # write results
-  seqs<- readFASTA(query)
-  names(seqs)<- sub("\\|.*","",sub(".+?\\|","", names(seqs)))
+  currentSeqs<- readFASTA(toottquery)
+  names(currentSeqs)<- sub("\\|.*","",sub(".+?\\|","", names(currentSeqs)))
   print(paste0("TooT-Toutput is found at: ", file.path(out,"TooTTout.csv")))
-  write.csv(cbind(UniProtID=names(seqs), predictions), file.path(out,"TooTTout.csv"))  
+  write.csv(cbind(UniProtID=names(currentSeqs), predictions), file.path(out,"TooTTout.csv"))  
   
 }
